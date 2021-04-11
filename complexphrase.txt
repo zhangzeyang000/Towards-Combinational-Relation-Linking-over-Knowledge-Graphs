@@ -1,0 +1,7 @@
+3,bunkmate,the person who is both your (schoolmate and (roommate;the person whose (restingplace and (almaMater is the same with you
+1,grandmother-in-law,the (mother of your (mother-in-law;mother-in-law:your (spouse 's (mother
+1,grandfather-in-law,the (father of your (mother-in-law;mother-in-law:your (spouse 's (mother
+1,great-great-grandfather,the (father of your (great-grandfather;great-grandfather:the (father of your (grandfather
+1,great-grandfather,dbp:father,dbp:grandfather,the (grandfather of your (father
+1,granddaughter-in-law,the (daughter-in-law of your (sons;daughter-in-law:the (spouse of your (sons
+1,country of origin,the country where the (factory located in;factory:the (locationCity of this product's (manufacturer

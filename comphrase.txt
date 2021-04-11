@@ -1,0 +1,720 @@
+1,举办地城镇化面积,dbp:presenter,dbo:areaUrban,the (areaUrban of the (presenter place
+1,举办地资产,dbp:presenter,dbo:assetUnderManagement,the (areaUrban of the (presenter organization
+1,转播电台类别,dbp:presenter,dbo:broadcastStationClass,the (broadcastStationClass of the (presenter video
+1,戏曲图片格式,dbp:runtime,dbo:pictureFormat,the (pictureFormat of a (runtime show
+1,国家箴言解释,dbp:nationalMotto,dbp:caption,the (caption of the (nationalMotto of a country
+1,国家箴言确立时间,dbp:nationalMotto,dbp:date,the (date of the (nationalMotto of a movement
+1,国家箴言图片,dbp:nationalMotto,dbp:image,the (image of the (nationalMotto of a country
+1,国家箴言假名,dbp:nationalMotto,dbp:kana,the (kana of the (nationalMotto of a movement
+1,国家箴言汉字,dbp:nationalMotto,dbp:kanji,the (kanji of the (nationalMotto of a country
+1,国家箴言相关评论,dbp:nationalMotto,dbp:comment,the (comment of the (nationalMotto of a country
+1,国家箴言标签,dbp:nationalMotto,rdfs:label,the (label of the (nationalMotto of a movement
+1,热点国家箴言,dbp:nationalMotto,foaf:isPrimaryTopicOf,the (nationalMotto of a country which (isPrimaryTopicOf in a forum
+1,官方语言原名,dbp:officialLanguages,dbo:originalName,the (originalName of a country's (officialLanguages
+1,官方语言相关,dbp:officialLanguages,dbo:related,the (related of a country's (officialLanguages
+1,官方语言认可度,dbp:officialLanguages,dbp:acceptance,the (acceptance of a country's (officialLanguages
+1,官方语言代理,dbp:officialLanguages,dbp:agency,the (agency of a country's (officialLanguages
+1,官方语言别称,dbp:officialLanguages,dbp:altname,the (altname of a country's (officialLanguages
+1,官方语言起源,dbp:officialLanguages,dbp:ancestor,the (ancestor of a country's (officialLanguages
+1,官方语言相关说明,dbp:officialLanguages,dbp:caption,the (caption about a country's (officialLanguages
+1,官方语种,dbp:officialLanguages,dbp:category,the (category about a country's (officialLanguages
+1,官语官名,dbp:officialLanguages,dbp:commonName,the (commonName of a country's (officialLanguages
+1,官语确定年份,dbp:officialLanguages,dbp:created,the (created year of a country's (officialLanguages
+1,官语确定人,dbp:officialLanguages,dbp:creator,the (creator of a country's (officialLanguages
+1,官方种族,dbp:officialLanguages,dbp:ethnicity,the (ethnicity which speak the (officialLanguages
+1,官方语言格式,dbp:officialLanguages,dbp:format,the (format which speak the (officialLanguages
+1,国歌描述,dbp:nationalAnthem,dbp:description,the (description about a country's (nationalAnthem
+1,国歌体裁,dbp:nationalAnthem,dbp:genre,the (genre a country's (nationalAnthem belongs to
+1,国歌编号,dbp:nationalAnthem,dbp:isbn,the (isbn of a country's (nationalAnthem
+1,国歌名字,dbp:nationalAnthem,dbp:name,the (name of a country's (nationalAnthem
+1,国歌标题,dbp:nationalAnthem,dbp:title,the (title of a country's (nationalAnthem
+1,国歌誊本,dbp:nationalAnthem,dbp:transcription,the (transcription of a country's (nationalAnthem
+1,政府圣歌,dbp:governmentType,dbo:anthem,the (anthem of a (governmentType organization
+1,货币创作人,dbp:currency,dbp:author,the (author who create the (currency
+1,替代货币流通国,dbp:replacedByCurrency,dbo:usingCountry,the (usingCountry where of the (replacedByCurrency currency can be used
+1,货币背景颜色,dbp:currency,dbp:bgcolor,the (bgcolor of the (currency
+1,货币资源管理器,dbp:currency,dbp:blockExplorer,the (blockExplorer of the (currency in the Internet
+1,货币积分奖励,dbp:currency,dbp:blockReward,the (blockReward of the (currency in the Internet
+1,货币代码库,dbp:currency,dbp:codeRepository,the (codeRepository of the (currency
+1,货币颜色,dbp:currency,dbp:color,the (color of the (currency
+1,货币种类数,dbp:currency,dbp:catalogNumber,the (catalogNumber of the (currency
+1,货币丛高度,dbp:currency,dbp:cheight,the (cheight of the (currency
+1,时区精度,dbp:timeZone,dbp:inaccurate,a (timeZone is (inaccurate or not
+1,时区来源,dbp:timeZone,http://www.w3.org/ns/prov#wasDerivedFrom,the place where the  (timeZone (wasDerivedFrom
+1,退休地面积,dbp:retired,dbo:area,the (area where you (retired from
+1,退休地人口密度,dbp:retired,dbo:populationDensity,the (populationDensity of a city where you (retired from
+1,退休地总人口,dbp:retired,dbo:populationTotal,the (populationTotal of a city where you (retired from
+1,退休地海拔,dbp:retired,dbo:elevation,the (elevation of a place where you (retired from
+1,退休地守备,dbp:retired,dbo:garrison,the (garrison power of a place where you (retired from
+1,退休地经济状况,dbp:retired,dbo:giniCoefficient,the (giniCoefficient in economic of a place where you (retired from
+1,退休地语言,dbp:retired,dbo:language,the (language of a place used where you (retired from
+1,退休地吉祥物,dbp:retired,dbo:mascot,the (mascot of a place where you (retired from
+1,退休地格言,dbp:retired,dbo:motto,the (motto of a place where you (retired from
+1,退休地邮编,dbp:retired,dbo:postalCode,the (postalCode of a place where you (retired from
+1,退休地所在时区,dbp:retired,dbo:timeZone,the (timeZone of a place are in  where you (retired from
+1,退休地域名,dbp:retired,dbo:topLevelDomain,the (topLevelDomain of a place are using where you (retired from
+1,退休地时差偏移量,dbp:retired,dbo:utcOffset,the (utcOffset of a place where you (retired from
+1,运动管理机构,dbp:plays,dbo:sportGoverningBody,the (sportGoverningBody of the (plays sport
+1,戏曲首映年,dbp:plays,dbp:first,the first show (year of the (plays
+1,运动起源,dbp:plays,dbp:origin,a place where the (plays sport (origin from
+1,剧名,dbp:plays,dbp:name,the (name of the (plays show
+1,签约机构前身,dbp:signature,dbp:formerNames,the (formerNames of the organization (that sb was (signature d
+1,签约机构标签,dbp:signature,dbp:logo,the (logo of the organization (that sb was (signature d
+1,签约机构格言,dbp:signature,dbp:motto,the (motto of the organization (that sb was (signature d
+1,签约机构名,dbp:signature,dbp:name,the (name of the organization (that sb was (signature d
+1,签约机构研究生人数,dbp:signature,dbp:postgrad,the (postgrad number of the organization (that sb was (signature d
+1,签约机构大学生人数,dbp:signature,dbp:undergrad,the (undergrad number of the organization (that sb was (signature d
+1,签约机构领导人,dbp:signature,dbp:rector,the (rector of the (signature d organization
+1,签约机构二把手,dbp:signature,dbp:viceChancellor,the (viceChancellor person of the (signature d organization
+1,服役地政府类型,dbp:serviceyears,dbo:governmentType,the (governmentType of the organization where you take (serviceyears
+1,服役地建立年,dbp:serviceyears,dbo:foundingYear,the (foundingYear of organization where you take (serviceyears
+1,服役地意识形态,dbp:serviceyears,dbo:ideology,the political (ideology of organization where you take (serviceyears
+1,服役地所在,dbp:serviceyears,dbo:location,the (location of organization where you take (serviceyears
+1,服役地军队,dbp:serviceyears,dbo:march,the (march of organization where you take (serviceyears
+1,服役地吉祥物,dbp:serviceyears,dbo:mascot,the (mascot of organization where you take (serviceyears
+1,服役地军事部门,dbp:serviceyears,dbo:militaryBranch,the (militaryBranch organization where you take (serviceyears
+1,服役军地大小,dbp:serviceyears,dbo:militaryUnitSize,the (militaryUnitSize of organization where you take (serviceyears
+1,服役地口号,dbp:serviceyears,dbo:motto,the organization 's (motto where you take (serviceyears
+1,服役地赞助人,dbp:serviceyears,dbo:patron,the (patron of organization where you take (serviceyears
+1,服役地政治领导人,dbp:serviceyears,dbo:politicalLeader,the (politicalLeader of organization where you take (serviceyears
+1,服役地人口密度,dbp:serviceyears,dbo:populationDensity,the (populationDensity of organization where you take (serviceyears
+1,服役地总人口数,dbp:serviceyears,dbo:populationTotal,the (populationTotal amount of organization where you take (serviceyears
+1,服役地邮编,dbp:serviceyears,dbo:postalCode,the (postalCode of the organization where you take (serviceyears
+1,服役战事结果,dbp:serviceyears,dbo:result,the (result of the war where you take (serviceyears
+1,服役地军事力量,dbp:serviceyears,dbo:strength,the (strength of the organization where you take (serviceyears
+1,服役地子部门,dbp:serviceyears,dbo:subdivision,the (subdivision organization where you take (serviceyears
+1,服役地所在时区,dbp:serviceyears,dbo:timeZone,the (timeZone the organization are in where you take (serviceyears
+1,服役地时区偏移量,dbp:serviceyears,dbo:utcOffset,the (utcOffset of the organization where you take (serviceyears
+1,服役地类型,dbp:serviceyears,dbo:type,the (type of organization where you take (serviceyears
+1,画家学术风格,dbp:illustrator,dbo:academicDiscipline,the (academicDiscipline of the (illustrator
+1,画家别名,dbp:illustrator,dbo:alias,the (alias of the (illustrator
+1,画家母校,dbp:illustrator,dbo:almaMater,the (almaMater school of the (illustrator
+1,画家生日,dbp:illustrator,dbo:birthDate,the (birthDate of the (illustrator
+1,画家出生地,dbp:illustrator,dbo:birthPlace,the (birthPlace of the (illustrator
+1,画家国籍,dbp:illustrator,dbo:country,the (country where (illustrator was born in
+1,画家死亡日,dbp:illustrator,dbo:deathDate,the (deathDate when the  (illustrator died
+1,画家墓地,dbp:illustrator,dbp:placeofburial,the (placeofburial where the (illustrator buried
+1,画家上过的杂志,dbp:illustrator,dbo:magazine,the (magazine that reported the (illustrator
+1,最大城市的地区代码,dbp:largestcity,dbo:areaCode,the (areaCode of the (largestcity at a country
+1,最大城市的面积,dbp:largestcity,dbo:areaLand,the (areaLand of the (largestcity at a country
+1,最大城市的水面积,dbp:largestcity,dbo:areaWater,the (areaWater of the (largestcity at a country
+1,最大城市的本地居民,dbp:largestcity,dbo:demonym,the (demonym people of the (largestcity at a country
+1,最大城市的海拔,dbp:largestcity,dbo:elevation,the (elevation of the (largestcity at a country
+1,最大城市创立人,dbp:largestcity,dbo:founder,the (founder person of the (largestcity at a country
+1,最大城市的人口密度,dbp:largestcity,dbo:populationDensity,the (populationDensity of the (largestcity at a country
+1,最大城市的政府首脑,dbp:largestcity,dbo:politicalLeader,the (politicalLeader of the (largestcity at a country
+1,最大城市的邮编,dbp:largestcity,dbo:postalCode,the (postalCode of the (largestcity at a country
+1,所属学校的类型,dbp:district,dbo:campusType,the (campusType of the school that the (district belongs to
+1,行政州,dbp:district,dbo:canton,the (canton state of this (district
+1,行政选区,dbp:district,dbo:congressionalDistrict,the (congressionalDistrict state of the (district in a country
+1,学区封禁时间,dbp:district,dbo:closingDate,the (closingDate when this (district in school was closed
+1,部落中心到伦敦的距离,dbp:district,dbo:distanceToLondon,the (distanceToLondon from the (district of a clan
+1,行政中心所在海拔,dbp:district,dbo:elevation,the (elevation where the (district are in
+1,政区成立时间,dbp:district,dbo:established,the (established time of this (district
+1,政民的种族,dbp:district,dbo:ethnicGroup,the (ethnicGroup type of people who live in this (district
+1,学区学院规模,dbp:district,dbo:facultySize,the (facultySize of the (district in school
+1,学区成立时间,dbp:district,dbo:formationDate,the (formationDate when this (district was established in school
+1,学区创立者,dbp:district,dbo:founder,the (founder of the (district
+1,地区gini指数,dbp:district,dbo:giniCoefficient,the (giniCoefficient of the (district in a country
+1,政区网格坐标,dbp:district,dbo:gridReference,the (gridReference location of the (district in a country
+1,冠军队人数,dbp:champions,dbp:capacity,the (capacity of the (champions team
+1,卫冕冠军队人数,dbp:defendingChampions,dbp:capacity,the (capacity of the (defendingChampions team who get the champion again
+1,俱乐部管理人数,dbo:managerClub,dbp:capacity,the (capacity of the (managerClub of a club
+1,对手人数,dbo:opponent,dbp:capacity,the (capacity of the (opponent team
+1,计算平台容量,dbo:computingPlatform,dbp:capacity,the (capacity of the (computingPlatform
+1,产品容量,dbo:products,dbp:capacity,the (capacity of the (products made by company
+1,俱乐部人数,dbp:clubs,dbp:capacity,the (capacity of (clubs
+1,墓地容量,dbp:restingPlace,dbp:capacity,the (capacity of the (restingPlace where buried died people
+1,队伍人数,dbp:teams,dbp:capacity,the (capacity of the (teams
+1,场馆人数,dbp:stadiums,dbp:capacity,the (capacity of the (stadiums
+3,首都所在省份,dbp:capital,dbp:seat,the (seat of the (capital
+3,取景城市,dbp:capital,dbo:series,the play has (series show in the (capital of a country
+3,城内公司,dbp:office,dbo:locationCity,the company's (locationCity where sb has a (office
+3,机构能用设备,dbp:office,dbp:available,the (available device which can used in the (office of an organization
+3,作者的配偶,dbp:spouse,dbo:writer,sb's (spouse is the (writer of a film
+3,签约的子机构,dbp:signature,dbo:isPartOf,the organization which (isPartOf of a company (signature d
+3,签约地成立的组织,dbp:signature,dbp:origins,the organization whose (origins is be (signature d
+3,主要人物的作品,dbp:illustrator,dbo:keyPerson,the work whose (illustrator is the (keyPerson of a company
+3,就读高校出版的作品,dbp:publisher,dbp:highSchool,the work whose (publisher is the (highSchool
+3,就读大学出版的作品,dbp:publisher,dbp:college,the work whose (publisher is the (college
+3,出版社下属机构,dbp:publisher,dbp:operator,the organization whose (operator is the (publisher of this book
+3,所属俱乐部的出版物,dbp:publisher,dbo:managerClub,the work whose (publisher is the (managerClub of you
+3,热点公司的作品,dbp:publisher,foaf:primaryTopic,the work whose (publisher is the (primaryTopic in web
+3,出版方的附属机构,dbp:publisher,dbp:affiliation,the (affiliation of an organization which is the (publisher of some work
+3,出版方的前附属机构,dbp:publisher,dbp:formerAffiliations,the (formerAffiliations of an organization which is the (publisher of some work
+3,在附属机构举办的活动,dbp:publisher,dbp:stadium,the sport's (stadium whose location is the (publisher of some work
+3,母校出版的作品,dbp:publisher,dbo:almaMater,the work whose (publisher is you (almaMater
+3,子部门出版的作品,dbp:publisher,dbo:division,the work whose (publisher is the (division organization of a company
+3,成立地出版的作品,dbp:publisher,dbo:birthplace,the work whose (publisher is the (birthplace of a this organization
+3,母公司出版的作品,dbp:publisher,dbo:parentCompany,the work whose (publisher is the (parentCompany of a this company
+3,同一个出版社出版的作品,dbp:publisher,dbo:publisher,the work whose (publisher is also the (publisher of a this work
+3,名单上成员的出版物,dbp:publisher,dbo:name,the work whose (publisher 's (name are in there
+3,赞助方主持过的节目,dbp:presenter,dbp:sponsor,the show whose (presenter are the (sponsor of this activity
+3,主办方导演过的电影,dbp:presenter,dbo:director,the movie whose (director is the (presenter of a activity
+3,主办方生产过的产品,dbp:presenter,dbo:productionCompany,the product whose (productionCompany is  the (presenter of a activity
+3,主办方配过音的电影,dbp:presenter,dbo:voice,the movie whose (voice is the (presenter of a activity
+3,公司主持过的节目,dbp:presenter,dbp:occupation,the show whose (presenter is your (occupation in
+3,主办方的员工,dbp:presenter,dbp:employer,the worker whose (employer is the (presenter of a show
+3,主持人评论过的节目,dbp:presenter,dbp:commentators,the competition whose (commentators is the (presenter of a show
+3,子女主持过的节目,dbp:presenter,dbp:child,the show whose (presenter is your (child
+3,公司关键人物主持过的节目,dbp:presenter,dbp:keyPerson,the show whose (presenter is the (keyPerson of a company
+3,候选人主持过的节目,dbp:presenter,dbp:candidate,the show whose (presenter is the (candidate in some activity
+3,公司老板主持过的节目,dbp:presenter,dbp:owningCompany,the show whose (presenter has a (owningCompany
+3,作家主持过的节目,dbp:presenter,dbp:writer,the show whose (presenter is the (writer of this book
+3,主持人赢过的比赛,dbp:presenter,dbp:winner,the competition whose (winner is the (presenter of a activity
+3,主持人加入的乐队,dbp:presenter,dbp:associatedBand,the (associatedBand whose member is the (presenter of a activity
+3,片尾曲演唱者主持过的节目,dbp:presenter,dbp:endtheme,the show whose (presenter is the singer of (endtheme in the movie
+3,主持人监制过的节目,dbp:presenter,dbo:executiveProducer,the movie whose (executiveProducer is the (presenter of this show
+3,主持人监制主演的电影,dbp:presenter,dbo:starring,the movie whose (starring is the (presenter of this show
+3,热点人物主持过的节目,dbp:presenter,foaf:primaryTopic,the show whose (presenter is the (primaryTopic in a web/forum
+3,领导人主持过的节目,dbp:presenter,dbo:leader,the show whose (presenter is the (leader of a organization
+3,导演配过的音的节目,dbp:director,dbp:voice,the (show whose (director is the (voice of a movie
+3,导演设计过的节目,dbp:director,dbp:designer,the (show whose (director is the (designer of the movie
+3,临时演员导过的电影,dbp:director,dbp:extra,the (show whose (director is the (extra of this movie
+3,导演建造过的建筑,dbp:director,dbp:builder,the (show whose (director is the (builder of the architecture
+3,导演的父母,dbp:director,dbp:child,the film whose (director is the (child of this person
+3,导演的亲戚,dbp:director,dbp:relative,the film whose (director is the (relative of this person
+3,邻近出生地的城市,dbp:birthPlace,dbp:neighboringMunicipalities,the (neighboringMunicipalities of your (birthPlace
+3,位于出生地的机构,dbp:birthPlace,dbp:headquarter,the organization whose (headquarter is your (birthPlace
+3,首都出生的人,dbp:birthPlace,dbo:capital,the person whose (birthPlace is the (capital of a country
+3,所在城市出生的人,dbp:birthPlace,dbo:locationCity,the person whose (birthPlace is your (locationCity
+3,毗邻星座,dbp:bordering,dbp:constellation,the (bordering of the (constellation where the star are
+3,与邻居同名的船,dbp:bordering,dbp:shipNamesake,the ship which is the (shipNamesake of the (bordering constellation
+3,邻居的名字,dbp:bordering,foaf:name,the (name of your (bordering
+3,邻居的别名,dbp:bordering,dbp:othername,the (othername of your (bordering
+3,统治地区的别名,dbp:reign,dbp:otherNames,the (otherNames of the area (reign d
+3,统治地现在所在国家,dbp:reign,dbo:capital,the country whose (capital is the (reign area of this person
+3,统治地生产的产品,dbp:reign,dbp:producers,the product whose (producers are in the (reign area of this person
+3,与统治地同名的马,dbp:reign,dbp:horsename,the horse whose (horsename are same with the (reign area of this person
+3,统治地的正式名,dbp:reign,dbp:commonName,the (commonName of the (reign area of this person
+3,所信仰宗教的统治者,dbp:reign,dbp:orientation,the person who (regin this religion which is the (orientation of this kind of person
+3,统治地曾经卫冕成功的比赛,dbp:reign,dbp:defendingChampions,the competition whose (defendingChampions is the (reign area of this person
+3,埋葬地有过的统治者,dbp:reign,dbp:burialPlace,the person whose (reign area is the (burialPlace of this person
+3,核心文件的简称,dbp:fullName,dbp:keydocument,the name of sth whose (fullName is the (keydocument
+3,导演的孩子,dbp:father,dbo:director,the child whose (father is the (director of the film
+3,配音演员的孩子,dbp:father,dbo:voice,the child whose (father is the (voice of the film
+3,分支的孩子,dbp:father,dbp:branches,the child whose (father are in the (branches of this clan
+3,父亲建过的建筑,dbp:father,dbp:foundedBy,the architecture which is (foundedBy your (father
+3,父亲作曲的歌,dbp:father,dbp:composer,the music whose (composer is your (father
+3,副总统的孩子,dbp:father,dbp:vicepresident,the child whose (father is the (vicepresident of this country
+3,法官的孩子,dbp:father,dbp:justice,the child whose (father is a (justice
+3,总统候选人的孩子,dbp:father,dbp:presidentCandidate,the child whose (father is a (presidentCandidate of a country
+3,冠军的孩子,dbp:father,dbp:champions,the child whose (father is the (champions of a competition
+3,对手的孩子,dbp:father,dbp:opponent,the child whose (father is your (opponent
+3,签约总统的孩子,dbp:father,dbp:signedpresident,the child whose (father is the (signedpresident of the country
+3,国家召集人的孩子,dbp:father,dbp:nationalConvener,the child whose (father is the (nationalConvener of the country
+3,电影摄影的孩子,dbp:father,dbp:cinematography,the child whose (father is the (cinematography of the movie
+3,前主编的孩子,dbp:father,dbp:previousEditor,the child whose (father is the (previousEditor of a magazine
+3,父亲参加过的战斗,dbp:father,dbp:combatant,the combat where your (father is the (combatant
+3,创始人的孩子,dbp:father,dbo:founder,the child whose (father is the (founder of a organization
+3,关键人物的孩子,dbp:father,dbo:keyPerson,the child whose (father is the (keyPerson of a organization
+3,父亲制定的法典,dbp:father,dbp:enactedBy,the rule (enactedBy your (father
+3,办公人员的孩子,dbp:father,dbp:officeholder,the child whose (father is the (officeholder of this organization
+3,第二领导人的孩子,dbp:father,dbo:secondLeader,the child whose (father is the (secondLeader of this organization
+3,博导的孩子,dbp:father,dbp:doctoralAdvisor,the child whose (father is the (doctoralAdvisor of this person
+3,总督的孩子,dbp:father,dbp:governor,the child whose (father is the (governor of the government
+3,养女的孩子,dbp:father,dbp:stepdaughters,the child whose (father is the (stepdaughters of the person
+3,现有成员的孩子,dbp:father,dbp:currentMembers,the child whose (father is the (currentMembers of the organization
+3,监制人的孩子,dbp:father,dbp:executiveProducer,the child whose (father is the (executiveProducer of the film
+3,制造商的孩子,dbp:father,dbp:producers,the child whose (father is the (producers of the company
+3,主教练的孩子,dbp:father,dbp:headCoach,the child whose (father is the (headCoach of the team
+3,主编的孩子,dbp:father,dbp:editor,the child whose (father is the (editor of the book
+3,主要人物的孩子,dbp:father,dbp:majorfigures,the child whose (father is the (majorfigures of the organization
+2,热点人物的祖国,dbp:homecountry,foaf:isPrimaryTopicOf,the (homecountry of a person who (isPrimaryTopicOf a web
+2,父亲的祖国,dbp:homecountry,dbp:children,the (homecountry of the person whose (children is the person
+2,绕城公路的枢纽,dbp:beltwayCity,dbp:junction,the (junction of the road whose (beltwayCity is this city
+2,绕城公路的别名,dbp:beltwayCity,dbp:alternateName,the (alternateName of the road whose (beltwayCity is this city
+2,绕城公路上的桥,dbp:beltwayCity,dbp:bridge,the (bridge in the road whose (beltwayCity is this city
+2,绕城公路的照片,dbp:beltwayCity,dbp:photo,the (photo of the road whose (beltwayCity is this city
+2,绕城公路的入口方向,dbp:beltwayCity,dbo:routeStartDirection,the (routeStartDirection of the road whose (beltwayCity is this city
+2,绕城公路的主页,dbp:beltwayCity,foaf:homepage,the (homepage of the road whose (beltwayCity is this city
+2,绕城公路的下游,dbp:beltwayCity,dbp:downstream,the (downstream of the road whose (beltwayCity is this city
+2,绕城公路边上的河流,dbp:beltwayCity,dbp:river,the (river which flow through the road whose (beltwayCity is this city
+2,绕城公路所在的州,dbp:beltwayCity,dbp:states,the (states in which have the road whose (beltwayCity is this city
+2,绕城公路上的高速路段,dbp:beltwayCity,dbp:eRoad,the (eRoad section of the road whose (beltwayCity is this city
+2,绕城公路所在的县,dbp:beltwayCity,dbp:county,the (county in which have the road whose (beltwayCity is this city
+1,[营业收入亚单位],dbp:operatingIncome,dbp:subunitName,the (subunitName of (operatingIncome
+1,[净利润亚单位],dbp:netIncome,dbp:subunitName,the (subunitName of (netIncome
+1,[],dbp:divisions,dbo:numberOfLocations,the (numberOfLocations of the (divisions
+1,[部门原名],dbp:divisions,dbo:originalName,the (originalName of the (divisions
+1,[部门收益],dbp:divisions,dbo:revenue,the (revenue of the (divisions
+1,[],dbp:divisions,dbo:headquarter,the (headquarter of the (divisions
+1,[],dbp:divisions,dbp:establishedDate,the (establishedDate of the (divisions
+1,[],dbp:divisions,dbp:sponsor,the (sponsor of the (divisions
+1,[],dbp:divisions,dbp:governingBody,the (governingBody of the (divisions
+1,[],dbp:divisions,dbo:slogan,the (slogan of the (divisions
+1,[子公司CEO],dbp:subsid,dbp:ceo,the (ceo of the (subsid
+1,[子公司简称],dbp:subsid,dbp:shortname,the (shortname of the (subsid
+1,[子公司地址],dbp:subsid,dbo:address,the (address of the (subsid
+1,[],dbp:subsid,dbo:numberOfLocations,the (numberOfLocations of the (subsid
+1,[子公司收益],dbp:subsid,dbo:revenue,the (revenue of the (subsid
+1,[],dbp:subsid,dbp:establishedDate,the (establishedDate of the (subsid
+1,[],dbp:subsid,dbp:governingBody,the (governingBody of the (subsid
+1,[],dbp:subsid,dbp:nativeName,the (nativeName of the (subsid
+1,[],dbp:subsid,dbo:originalName,the (originalName of the (subsid
+1,[],dbp:subsid,dbo:slogan,the (slogan of the (subsid
+1,[],dbp:subsid,dbp:scale,the (scale of the (subsid
+1,[],dbp:subsid,dbp:capacity,the (capacity of the (subsid
+1,[子公司经理],dbp:subsid,dbo:manager,the (manager of the (subsid
+1,[],dbp:subsid,dbo:closingDate,the (closingDate of the (subsid
+1,[],dbp:subsid,dbp:sponsor,the (sponsor of the (subsid
+1,[],dbp:subsid,dbp:abbreviation,the (abbreviation of the (subsid
+1,[],dbp:subsid,dbp:competitors,the (competitors of the (subsid
+1,[],dbp:subsid,dbp:numberOfStores,the (numberOfStores of the (subsid
+1,[],dbp:populationUrban,dbp:otherName,the (otherName of the (populationUrban
+1,[],dbp:populationUrban,dbo:governingBody,the (governingBody of the (populationUrban
+1,[],dbp:populationUrban,dbp:subdivisionName,the (subdivisionName of the (populationUrban
+1,[],dbp:populationUrban,dbo:populationDensity,the (populationDensity of the (populationUrban
+1,[所在城市邮编],dbp:populationUrban,dbp:postalCode,the (postalCode of (populationUrban
+1,[操作系统发布日期],dbp:os,dbp:releaseDate,the (releaseDate of the (os
+1,[],dbp:os,dbo:latestReleaseDate,the (latestReleaseDate of the (os
+1,[],dbp:os,dbp:gpu,the (gpu of the (os
+1,[],dbp:os,dbo:programmingLanguage,the (programmingLanguage of the (os
+1,[],dbp:os,dbp:compatibility,the (compatibility of the (os
+1,[],dbp:os,dbp:developer,the (developer of the (os
+1,[曾用队名],dbp:teamname,dbp:oldname,the (oldname of the (teamname
+1,[],dbp:teamname,foaf:depiction,the (depiction of the (teamname
+1,[],dbp:url,dbp:versionDate,the (versionDate of the (url
+1,[],dbp:url,dbp:launchDate,the (launchDate of the (url
+1,[],dbp:url,foaf:homepage,the (homepage of the (url
+1,[],dbp:url,dbp:authors,the (authors of the (url
+1,[],dbp:url,foaf:depiction,the (depiction of the (url
+1,[],dbp:url,dbp:editors,the (editors of the (url
+1,[],dbp:url,dbp:owner,the (owner of the (url
+1,[],dbp:url,dbp:longName,the (longName of the (url
+1,[],dbp:url,dbp:website,the (website of the (url
+1,[],dbp:unrankedOrdo,dbp:typeSpecies,the (typeSpecies of the (unrankedOrdo
+1,[],dbp:chancellor,dbp:deathDate,the (deathDate of the (chancellor
+1,[校长本国名字],dbp:chancellor,dbp:nativeName,the (nativeName of the (chancellor
+1,[校长原名],dbp:chancellor,dbo:originalName,the (originalName of the (chancellor
+1,[校长国籍],dbp:chancellor,dbo:nationality,the (nationality of the (chancellor
+1,[],dbp:chancellor,dbp:yearsactive,the (yearsactive of the (chancellor
+1,[],dbp:chancellor,dbp:abbreviation,the (abbreviation of the (chancellor
+1,[],dbp:chancellor,dbp:vicepresident,the (vicepresident of the (chancellor
+1,[],dbp:chancellor,dbo:headquarter,the (headquarter of the (chancellor
+1,[],dbp:chancellor,dbp:firstminister,the (firstminister of the (chancellor
+1,[],dbp:chancellor,dbo:location,the (location of the (chancellor
+1,[],dbp:chancellor,dbp:grandchildren,the (grandchildren of the (chancellor
+1,[],dbp:chancellor,dbp:sponsor,the (sponsor of the (chancellor
+1,[校长出生地],dbp:chancellor,dbo:birthPlace,the (birthPlace of the (chancellor
+1,[校长职业],dbp:chancellor,dbp:occupation,the (occupation of the (chancellor
+1,[],dbp:chancellor,dbo:child,the (child of the (chancellor
+1,[校长博导],dbp:chancellor,dbp:doctoralAdvisor,the (doctoralAdvisor of the (chancellor
+1,[校长配偶],dbp:chancellor,dbp:consort,the (consort of the (chancellor
+1,[],dbp:chancellor,dbp:otherNames,the (otherNames of the (chancellor
+1,[],dbp:chancellor,dbo:parentOrganisation,the (parentOrganisation of the (chancellor
+1,[],dbp:governingBody,dbo:location,the (location of the (governingBody
+1,[],dbp:governingBody,dbp:operatingIncome,the (operatingIncome of the (governingBody
+1,[],dbp:governingBody,dbo:numberOfLocations,the (numberOfLocations of the (governingBody
+1,[],dbp:governingBody,dbo:revenue,the (revenue of the (governingBody
+1,[],dbp:governingBody,dbo:headquarter,the (headquarter of the (governingBody
+1,[],dbp:governingBody,dbp:establishedDate,the (establishedDate of the (governingBody
+1,[],dbp:governingBody,dbp:nativeName,the (nativeName of the (governingBody
+1,[],dbp:governingBody,dbp:governingBody,the (governingBody of the (governingBody
+1,[],dbp:governingBody,dbo:originalName,the (originalName of the (governingBody
+1,[],dbp:governingBody,dbp:abbreviation,the (abbreviation of the (governingBody
+1,[conservation of subfamilia],dbp:subfamilia,dbo:conservationStatus,the(conservationStatus of the (subfamilia
+1,[domain of sub familia],dbp:subfamilia,dbo:domain,the(domain of the (subfamilia
+1,[genus of subfamilia],dbp:subfamilia,dbo:genus,the(genus of the (subfamilia
+1,[synonym of sub familia],dbp:subfamilia,dbo:synonym,the(synonym of the (subfamilia
+1,[infra phylum of sub familia],dbp:subfamilia,dbp:infraphylum,the(infraphylum of the (subfamilia
+1,[label of subfamilia],dbp:subfamilia,dbp:label,the(label of the (subfamilia
+1,[size of subfamilia],dbp:subfamilia,dbp:size,the(size of the (subfamilia
+1,[species of subfamilia],dbp:subfamilia,dbp:species,the(species of the (subfamilia
+1,[status of subfamilia],dbp:subfamilia,dbp:status,the(status of the (subfamilia
+1,[class of synonyms],dbp:synonyms,dbo:class,the(class of the (synonyms
+1,[group of synonyms],dbp:synonyms,dbp:group,the(group of the (synonyms
+1,[length of outflow],dbp:outflow,dbo:Infrastructure/length,the(Infrastructure/length of the (outflow
+1,[watershed of outflow],dbp:outflow,dbo:Lake/areaOfCatchment,the(Lake/areaOfCatchment of the (outflow
+1,[shorelength of outflow],dbp:outflow,dbo:Lake/shoreLength,the(Lake/shoreLength of the (outflow
+1,[quantity of flow],dbp:outflow,dbo:Lake/volume,the(Lake/volume of the (outflow
+1,[average Depth of outflow],dbp:outflow,dbo:averageDepth,the(averageDepth of the (outflow
+1,[country of outflow],dbp:outflow,dbo:country,the(country of the (outflow
+1,[lake of outflow],dbp:outflow,dbo:lake,the(lake of the (outflow
+1,[location of outflow],dbp:outflow,dbo:location,the(location of the (outflow
+1,[maximum depth of outflow],dbp:outflow,dbo:maximumDepth,the(maximumDepth of the (outflow
+1,[area percentage of outflow],dbp:outflow,dbo:percentageOfAreaWater,the(percentageOfAreaWater of the (outflow
+1,[river branch of outflow],dbp:outflow,dbo:riverBranch,the(riverBranch of the (outflow
+1,[river mouth of outflow],dbp:outflow,dbo:riverMouth,the(riverMouth of the (outflow
+1,[state of outflow],dbp:outflow,dbo:state,the(state of the (outflow
+1,[status of outflow],dbp:outflow,dbo:status,the(status of the (outflow
+1,[founder's height],dbp:founder,dbo:Person/height,the(Person/height of the (founder
+1,[founder's weight],dbp:founder,dbo:Person/weight,the(Person/weight of the (founder
+1,[founder's abbreviation],dbp:founder,dbo:abbreviation,the(abbreviation of the (founder
+1,[founder's years active],dbp:founder,dbo:activeYears,the(activeYears of the (founder
+1,[end date of founder's years active],dbp:founder,dbo:activeYearsEndDate,the(activeYearsEndDate of the (founder
+1,[end year of founder's years active],dbp:founder,dbo:activeYearsEndYear,the(activeYearsEndYear of the (founder
+1,[start date of founder's years active],dbp:founder,dbo:activeYearsStartDate,the(activeYearsStartDate of the (founder
+1,[start year of founder's years active],dbp:founder,dbo:activeYearsStartYear,the(activeYearsStartYear of the (founder
+1,[founder's address],dbp:founder,dbo:address,the(address of the (founder
+1,[founder's affiliation],dbp:founder,dbo:affiliation,the(affiliation of the (founder
+1,[allegiance of founder],dbp:founder,dbo:alliance,the(alliance of the (founder
+1,[alliance of founder],dbp:founder,dbo:birthDate,the(birthDate of the (founder
+1,[date of founder's birth],dbp:founder,dbo:birthName,the(birthName of the (founder
+1,[founder's birth name],dbp:founder,dbo:birthPlace,the(birthPlace of the (founder
+1,[place of founder's birth],dbp:founder,dbo:birthYear,the(birthYear of the (founder
+1,[length of location],dbp:locations,dbo:Infrastructure/length,the(Infrastructure/length of the (locations
+1,[metro area of location],dbp:locations,dbo:PopulatedPlace/areaMetro,the(PopulatedPlace/areaMetro of the (locations
+1,[total area of location],dbp:locations,dbo:PopulatedPlace/areaTotal,the(PopulatedPlace/areaTotal of the (locations
+1,[urban area of location],dbp:locations,dbo:PopulatedPlace/areaUrban,the(PopulatedPlace/areaUrban of the (locations
+1,[population density of location],dbp:locations,dbo:PopulatedPlace/populationDensity,the(PopulatedPlace/populationDensity of the (locations
+1,[population density of metro locations],dbp:locations,dbo:PopulatedPlace/populationMetroDensity,the(PopulatedPlace/populationMetroDensity of the (locations
+1,[population density of urban locations],dbp:locations,dbo:PopulatedPlace/populationUrbanDensity,the(PopulatedPlace/populationUrbanDensity of the (locations
+1,[location address],dbp:locations,dbo:address,the(address of the (locations
+1,[location administrative center],dbp:locations,dbo:administrativeCenter,the(administrativeCenter of the (locations
+1,[location administrative district],dbp:locations,dbo:administrativeDistrict,the(administrativeDistrict of the (locations
+1,[architect of location],dbp:locations,dbo:architect,the(architect of the (locations
+1,[style of location architecture],dbp:locations,dbo:architecturalStyle,the(architecturalStyle of the (locations
+1,[Ground breaking date of location],dbp:locations,dbo:buildingStartDate,the(buildingStartDate of the (locations
+1,[type of city of location],dbp:locations,dbo:cityType,the(cityType of the (locations
+1,[country of location],dbp:locations,dbo:country,the(country of the (locations
+1,[location founder],dbp:locations,dbo:foundedBy,the(foundedBy of the (locations
+1,[date of location founding],dbp:locations,dbo:foundingDate,the(foundingDate of the (locations
+1,[year of location founding],dbp:locations,dbo:foundingYear,the(foundingYear of the (locations
+1,[key figure's height],dbp:keyPeople,dbo:Person/height,the(Person/height of the (keyPeople
+1,[key figure's weight],dbp:keyPeople,dbo:Person/weight,the(Person/weight of the (keyPeople
+1,[key figure's abbreviation],dbp:keyPeople,dbo:abbreviation,the(abbreviation of the (keyPeople
+1,[key figure's years active],dbp:keyPeople,dbo:activeYears,the(activeYears of the (keyPeople
+1,[end date of key figure's years active],dbp:keyPeople,dbo:activeYearsEndDate,the(activeYearsEndDate of the (keyPeople
+1,[end year of key figure's years active],dbp:keyPeople,dbo:activeYearsEndYear,the(activeYearsEndYear of the (keyPeople
+1,[start date of key figure's years active],dbp:keyPeople,dbo:activeYearsStartDate,the(activeYearsStartDate of the (keyPeople
+1,[start year of key figure's years active],dbp:keyPeople,dbo:activeYearsStartYear,the(activeYearsStartYear of the (keyPeople
+1,[key figure's affiliation],dbp:keyPeople,dbo:affiliation,the(affiliation of the (keyPeople
+1,[key figure's agency],dbp:keyPeople,dbo:agency,the(agency of the (keyPeople
+1,[key figure's allegiance],dbp:keyPeople,dbo:allegiance,the(allegiance of the (keyPeople
+1,[date of key figure's birth],dbp:keyPeople,dbo:birthDate,the(birthDate of the (keyPeople
+1,[key figure's birthname],dbp:keyPeople,dbo:birthName,the(birthName of the (keyPeople
+1,[place of key figure's birth],dbp:keyPeople,dbo:birthPlace,the(birthPlace of the (keyPeople
+1,[year of key figure's birth],dbp:keyPeople,dbo:birthYear,the(birthYear of the (keyPeople
+1,[key figure's board],dbp:keyPeople,dbo:board,the(board of the (keyPeople
+1,[key figure's city],dbp:keyPeople,dbo:city,the(city of the (keyPeople
+1,[cause of key figure's death],dbp:keyPeople,dbo:deathCause,the(deathCause of the (keyPeople
+1,[date of key figure's death],dbp:keyPeople,dbo:deathDate,the(deathDate of the (keyPeople
+1,[place of key figure's death],dbp:keyPeople,dbo:deathPlace,the(deathPlace of the (keyPeople
+1,[year of key figure's death],dbp:keyPeople,dbo:deathYear,the(deathYear of the (keyPeople
+1,[key figure's depiction],dbp:keyPeople,dbo:depictionDescription,the(depictionDescription of the (keyPeople
+1,[wheelbase produced],dbp:production,dbo:Automobile/wheelbase,the(Automobile/wheelbase of the (production
+1,[product height],dbp:production,dbo:MeanOfTransportation/height,the(MeanOfTransportation/height of the (production
+1,[product length],dbp:production,dbo:MeanOfTransportation/length,the(MeanOfTransportation/length of the (production
+1,[product weight],dbp:production,dbo:MeanOfTransportation/weight,the(MeanOfTransportation/weight of the (production
+1,[product width],dbp:production,dbo:MeanOfTransportation/width,the(MeanOfTransportation/width of the (production
+1,[factory location city],dbp:production,dbo:city,the(city of the (production
+1,[factory location],dbp:production,dbo:location,the(location of the (production
+1,[factory location country],dbp:production,dbo:locationCountry,the(locationCountry of the (production
+1,[mould elimination year],dbp:production,dbo:modelEndYear,the(modelEndYear of the (production
+1,[mould beginning year],dbp:production,dbo:modelStartYear,the(modelStartYear of the (production
+1,[number of factory employees],dbp:production,dbo:numberOfEmployees,the(numberOfEmployees of the (production
+1,[number of factory locations],dbp:production,dbo:numberOfLocations,the(numberOfLocations of the (production
+1,[area of profited place],dbp:revenue,dbo:PopulatedPlace/area,the(PopulatedPlace/area of the (revenue
+1,[population density of profited place],dbp:revenue,dbo:PopulatedPlace/populationDensity,the(PopulatedPlace/populationDensity of the (revenue
+1,[currency of revenue],dbp:revenue,dbo:currency,the(currency of the (revenue
+1,[genre of revenue],dbp:revenue,dbo:genre,the(genre of the (revenue
+1,[rank's age range],dbp:rank,dbo:ageRange,(ageRange of the (rank
+1,[rank's anniversary,dbp:rank,dbo:anniversary,(anniversary of the (rank
+1,[rank's anthem,dbp:rank,dbo:anthem,(anthem of the (rank
+1,[rank's area,dbp:rank,dbo:area,(area of the (rank
+1,[battle participated,dbp:rank,dbo:battle,(battle which the (rank has participate in
+1,[rank's category,dbp:rank,dbo:category,(category of the (rank
+1,[military command structure,dbp:rank,dbo:commandStructure,(commandStructure of the (rank
+1,[military commander,dbp:rank,dbo:commander,(commander of the (rank
+1,[country served,dbp:rank,dbo:country,(country that the (rank belong to
+1,[dismiss of rank,dbp:rank,dbo:disbanded,the (disbanded of the (rank
+1,[date of rank's dissolution,dbp:rank,dbo:dissolutionDate,(dissolutionDate of the (rank
+1,[year of rank's dissolution,dbp:rank,dbo:dissolutionYear,(dissolutionYear of the (rank
+1,[date of rank's formation,dbp:rank,dbo:formationDate,(formationDate of the (rank
+1,[year of rank's formation,dbp:rank,dbo:formationYear,(formationYear of the (rank
+1,[date of rank's foundation,dbp:rank,dbo:foundingDate,(foundingDate of the (rank
+1,[year of rank's foundation,dbp:rank,dbo:foundingYear,(foundingYear of the (rank
+1,[4th commander of rank,dbp:rank,dbo:fourthCommander,(fourthCommander of the (rank
+1,[military identification,dbp:rank,dbo:identificationSymbol,(identificationSymbol of the (rank
+1,[rank's core person,dbp:rank,dbo:keyPerson,(keyPerson of the (rank
+1,[rank's language,dbp:rank,dbo:language,(language spoken in the (rank
+1,[rank's leader,dbp:rank,dbo:leader,(leader of the (rank
+1,[rank's location,dbp:rank,dbo:location,(location of the (rank
+1,[membership of rank,dbp:rank,dbo:membership,(membership of the (rank
+1,[military branch of rank,dbp:rank,dbo:militaryBranch,(militaryBranch of the (rank
+1,[military service of rank,dbp:rank,dbo:militaryService,(militaryService of the (rank
+1,[military unit size of rank,dbp:rank,dbo:militaryUnitSize,(militaryUnitSize of the (rank
+1,[commander of rank,dbp:rank,dbo:notableCommander,(notableCommander of the (rank
+1,[rank's parent body,dbp:rank,dbo:parentOrganisation,(parentOrganisation of the (rank
+1,[rank's population,dbp:rank,dbo:populationTotal,(populationTotal of the (rank
+1,[rank's population density,dbp:rank,dbo:populationDensity,(populationDensity of the (rank
+1,[2nd commander of rank,dbp:rank,dbo:secondCommander,(secondCommander of the (rank
+1,[3rd commander of rank,dbp:rank,dbo:thirdCommander,(thirdCommander of the (rank
+1,[status of rank,dbp:rank,dbo:status,(status in the (rank
+1,[illustrator height,dbp:illustrator,dbo:height,(height of the (illustrator
+1,[illustrator weight,dbp:illustrator,dbo:weight,(weight of the (illustrator
+1,[end year of illustrator's periods,dbp:illustrator,dbo:activeYearsEndYear,(activeYearsEndYear of the (illustrator
+1,[start year of illustrator's periods,dbp:illustrator,dbo:activeYearsStartYear,(activeYearsStartYear of the (illustrator
+1,[relevant musician of illustrator,dbp:illustrator,dbo:associatedMusicalArtist,(associatedMusicalArtist of the (illustrator
+1,[illustrator's awards,dbp:illustrator,dbo:award,(award that the (illustrator wins
+1,[illustrator's background,dbp:illustrator,dbo:background,(background of the (illustrator
+1,[illustrator's birthname,dbp:illustrator,dbo:birthName,(birthName of the (illustrator
+1,[year of illustrator's birth,dbp:illustrator,dbo:birthYear,(birthYear of the (illustrator
+1,[illustrator's child,dbp:illustrator,dbo:child,(child of the (illustrator
+1,[citizenship of illustrator,dbp:illustrator,dbo:citizenship,the (citizenship of the (illustrator
+1,[place of illustrator's death,dbp:illustrator,dbo:deathPlace,the (deathPlace of the (illustrator
+1,[year of illustrator's death,dbp:illustrator,dbo:deathYear,the (deathYear of the (illustrator
+1,[illustrator's education,dbp:illustrator,dbo:education,the (education of the (illustrator
+1,[illustrator's employer,dbp:illustrator,dbo:employer,(employer of the (illustrator
+1,[1st publication date of illustrator,dbp:illustrator,dbo:firstPublicationDate,(firstPublicationDate of the (illustrator
+1,[illustrator's hometown,dbp:illustrator,dbo:hometown,(hometown of the (illustrator
+1,[illustrator's language,dbp:illustrator,dbo:language,the (language spoken by the (illustrator
+1,[last publication date of illustrator,dbp:illustrator,dbo:lastPublicationDate,the (lastPublicationDate of the (illustrator
+1,[illustrator's nationality,dbp:illustrator,dbo:nationality,the (nationality of the (illustrator
+1,[illustrator's original name,dbp:illustrator,dbo:originalName,the (originalName of the (illustrator
+1,[overal record of illustrator,dbp:illustrator,dbo:overallRecord,(overallRecord of the (illustrator
+1,[illustrator's parent,dbp:illustrator,dbo:parent,the (parent of the (illustrator
+1,[illustrator's parent company,dbp:illustrator,dbo:parentCompany,the (parentCompany of the (illustrator
+1,[illustrator's partner,dbp:illustrator,dbo:partner,the (partner of the (illustrator
+1,[illustrator's party,dbp:illustrator,dbo:party,the (party of the (illustrator
+1,[political leader of illustrator,dbp:illustrator,dbo:politicalLeader,the (politicalLeader of the (illustrator
+1,[illustrator's pseudonym,dbp:illustrator,dbo:pseudonym,the (pseudonym of the (illustrator
+1,[illustrator's relative,dbp:illustrator,dbo:relative,the (relative of the (illustrator
+1,[illustrator's residence,dbp:illustrator,dbo:residence,the (residence of the (illustrator
+1,[illustrator's resting place,dbp:illustrator,dbo:restingPlace,the (restingPlace of the (illustrator
+1,[pages author,dbp:pages,dbo:author,the (author of the (pages
+1,[pages abstract,dbp:pages,dbo:abstract,the (abstract of the (pages
+1,[pages isbn,dbp:pages,dbo:isbn,the (isbn of the (pages
+1,[pages index,dbp:pages,dbo:numberOfPages,the (numberOfPages of the (pages
+1,[previous work of pages,dbp:pages,dbo:previousWork,the (previousWork of the (pages
+1,[publisher of pages,dbp:pages,dbo:publisher,the (publisher of the (pages
+1,[subsequent work of pages,dbp:pages,dbo:subsequentWork,the (subsequentWork of the (pages
+1,[pages genre,dbp:pages,dbp:genre,the (genre of the (pages
+1,[pages image,dbp:pages,dbp:image,the (image included in the (pages
+1,[pages language,dbp:pages,dbp:language,the (language of the (pages
+1,[pages name,dbp:pages,dbp:name,(name of the (pages
+1,[pages release date,dbp:pages,dbp:releaseDate,the (releaseDate of the (pages
+1,[pages series,dbp:pages,dbp:series,the (series of the (pages
+1,[height of presenter,dbp:presenter,dbo:height,the (height of the (presenter
+1,[weight of presenter,dbp:presenter,dbo:weight,the (weight of the (presenter
+1,[periods of presenter,dbp:presenter,dbo:activeYears,the (activeYears of the (presenter
+1,[end date of presenter's periods,dbp:presenter,dbo:activeYearsEndDate,the (activeYearsEndDate of the (presenter
+1,[end year of presenter's periods,dbp:presenter,dbo:activeYearsEndYear,the (activeYearsEndYear of the (presenter
+1,[start date of presenter's periods,dbp:presenter,dbo:activeYearsStartDate,the (activeYearsStartDate of the (presenter
+1,[start year of presenter's periods,dbp:presenter,dbo:activeYearsStartYear,the (activeYearsStartYear of the (presenter
+1,[address of presenter,dbp:presenter,dbo:address,resource:the (address of the (presenter
+1,[alias of presenter,dbp:presenter,dbo:alias,the (alias of the (presenter
+1,[almaMater of presenter,dbp:presenter,dbo:almaMater,the (almaMater of the (presenter
+1,[alternativeName of presenter,dbp:presenter,dbo:alternativeName,the (alternativeName of the (presenter
+1,[award of presenter,dbp:presenter,dbo:award,the (award that the (presenter wins
+1,[date of presenter's birth,dbp:presenter,dbo:birthDate,the (birthDate of the (presenter
+1,[presenter's birthname,dbp:presenter,dbo:birthName,the (birthName of the (presenter
+1,[place of presenter's birth,dbp:presenter,dbo:birthPlace,the (birthPlace of the (presenter
+1,[year of presenter's birth,dbp:presenter,dbo:birthYear,the (birthYear of the (presenter
+1,[career prize money of presenter,dbp:presenter,dbo:careerPrizeMoney,the (careerPrizeMoney of the (presenter
+1,[career station of presenter,dbp:presenter,dbo:careerStation,the (careerStation of the (presenter
+1,[presenter's child,dbp:presenter,dbo:child,the (child of the (presenter
+1,[presenter's citizenship,dbp:presenter,dbo:citizenship,the (citizenship of the (presenter
+1,[graduate school of presenter,dbp:presenter,dbo:college,the (college of the (presenter
+1,[country of presenter,dbp:presenter,dbo:country,the (country of the (presenter
+1,[screenplay abstract,dbp:screenplay,dbo:abstract,the (abstract of the (screenplay
+1,[screenplay alias,dbp:screenplay,dbo:alias,the (alias of the (screenplay
+1,[screenplay author,dbp:screenplay,dbo:author,the (author of the (screenplay
+1,[screenplay background,dbp:screenplay,dbo:background,the (background of the (screenplay
+1,[screenplay choreographer,dbp:screenplay,dbo:choreographer,the (choreographer of the (screenplay
+1,[cinematography of screenplay ,dbp:screenplay,dbo:cinematography,the (cinematography of the (screenplay
+1,[creator of screenplay,dbp:screenplay,dbo:creator,the (creator of the (screenplay
+1,[editing of screenplay,dbp:screenplay,dbo:editing,the (editing of the (screenplay
+1,[editor of screenplay,dbp:screenplay,dbo:editor,the (editor of the (screenplay
+1,[executive producer of screenplay,dbp:screenplay,dbo:executiveProducer,the (executiveProducer of the (screenplay
+1,[first apperance of screenplay,dbp:screenplay,dbo:firstAppearance,the (firstAppearance of the (screenplay
+1,[governor of screenplay,dbp:screenplay,dbo:governor,the (governor of the (screenplay
+1,[end date of composer's periods,dbp:composer,dbo:activeYearsEndDate,the (activeYearsEndDate of the (composer
+1,[end year of composer's periods,dbp:composer,dbo:activeYearsEndYear,the (activeYearsEndYear of the (composer
+1,[start date of composer's periods,dbp:composer,dbo:activeYearsStartDate,the (activeYearsStartDate of the (composer
+1,[start year of composer's periods,dbp:composer,dbo:activeYearsStartYear,the (activeYearsStartYear of the (composer
+1,[alias of composer,dbp:composer,dbo:alias,the (alias of the (composer
+1,[relevant musicians of composer,dbp:composer,dbo:associatedMusicalArtist,the (associatedMusicalArtist of the (composer
+1,[composer's awards,dbp:composer,dbo:award,the (award that the (composer wins
+1,[date of composer's birth,dbp:composer,dbo:birthDate,the (birthDate of the (composer
+1,[composer's birthname,dbp:composer,dbo:birthName,the (birthName of the (composer
+1,[place of composer's birth,dbp:composer,dbo:birthPlace,the (birthPlace of the (composer
+1,[year of composer's birth,dbp:composer,dbo:birthYear,the (birthYear of the (composer
+1,[career station of composer,dbp:composer,dbo:careerStation,the (careerStation of the (composer
+1,[composer's child,dbp:composer,dbo:child,the (child of the (composer
+1,[composer's citizenship,dbp:composer,dbo:citizenship,the (citizenship of the (composer
+1,[composer's city,dbp:composer,dbo:city,the (city of the (composer
+1,[composer's college,dbp:composer,dbo:college,the (college of the (composer
+1,[composer's company,dbp:composer,dbo:company,the (company of the (composer
+1,[cause of composer's death,dbp:composer,dbo:deathCause,the (deathCause of the (composer
+1,[date of composer's death,dbp:composer,dbo:deathDate,the (deathDate of the (composer
+1,[place of composer's death,dbp:composer,dbo:deathPlace,the (deathPlace of the (composer
+1,[year of composer's death,dbp:composer,dbo:deathYear,the (deathYear of the (composer
+1,[education of composer,dbp:composer,dbo:education,the (education of the (composer
+1,[composer's father,dbp:composer,dbo:father,the (father of the (composer
+1,[composer's highschool,dbp:composer,dbo:highschool,the (highschool of the (composer
+1,[composer's hometown,dbp:composer,dbo:hometown,the (hometown of the (composer
+1,[composer's honors,dbp:composer,dbo:honours,the (honours of the (composer
+1,[composer's location,dbp:composer,dbo:location,the (location of the (composer
+1,[composer's interest,dbp:composer,dbo:mainInterest,the (mainInterest of the (composer
+1,[author of description,dbp:description,dbo:author,the (author of the (description
+1,[category of description,dbp:description,dbo:category,the (category of the (description
+1,[date of description,dbp:description,dbo:date,the (date of the (description
+1,[assets of parents,dbp:parents,dbo:assets,the (assets of the (parents
+1,[company of parents,dbp:parents,dbo:company,the (company of the (parents
+1,[parents' nationality,dbp:parents,dbo:country,the (country of the (parents
+1,[parents'education,dbp:parents,dbo:education,the (education of the (parents
+1,[island index code,dbp:islands,dbo:areaCode,the (areaCode of the (islands
+1,[land area of island ,dbp:islands,dbo:areaLand,the (areaLand of the (islands
+1,[total area of island,dbp:islands,dbo:areaTotal,the (areaTotal of the (islands
+1,[water area of island,dbp:islands,dbo:areaWater,the (areaWater of the (islands
+1,[average depth of island,dbp:islands,dbo:averageDepth,the (averageDepth of the (islands
+1,[canton of island,dbp:islands,dbo:canton,the (canton of the (islands
+1,[country of island,dbp:islands,dbo:country,the (country of the (islands
+1,[island countrycode,dbp:islands,dbo:countryCode,the (countryCode of the (islands
+1,[island elevation,dbp:islands,dbo:elevation,the (elevation of the (islands
+1,[island height,dbp:islands,dbo:height,the (height of the (islands
+1,[island location,dbp:islands,dbo:location,the (location of the (islands
+1,[maximum depth of island,dbp:islands,dbo:maximumDepth,the (maximumDepth of the (islands
+1,[maximum elevation of island,dbp:islands,dbo:maximumElevation,the (maximumElevation of the (islands
+1,[maximum temperature of island,dbp:islands,dbo:maximumTemperature,the (maximumTemperature of the (islands
+1,[minimum elevation of island,dbp:islands,dbo:minimumElevation,the (minimumElevation of the (islands
+1,[minimum temperature of island,dbp:islands,dbo:minimumTemperature,the (minimumTemperature of the (slands
+1,[nearest city of island,dbp:islands,dbo:nearestCity,the (nearestCity of the (islands
+1,[original name of island,dbp:islands,dbo:originalName,the (originalName of the (islands
+1,[political leader of island,dbp:islands,dbo:politicalLeader,the (politicalLeader of the (islands
+1,[population density of island,dbp:islands,dbo:populationDensity,the (populationDensity of the (islands
+1,[total population of island,dbp:islands,dbo:populationTotal,the (populationTotal of the (islands
+1,[province of island,dbp:islands,dbo:province,the (province of the (islands
+1,[timezone of island,dbp:islands,dbo:timeZone,the (timeZone of the (islands
+1,[utc offset of island,dbp:islands,dbo:utcOffset,the (utcOffset of the (islands
+1,[population density of burial place,dbp:placeofburial,dbo:populationDensity,the (populationDensity of the (placeofburial
+1,[metro population density of burial place,dbp:placeofburial,dbo:populationMetroDensity,the (populationMetroDensity of the (placeofburial
+1,[urban population density of burial place,dbp:placeofburial,dbo:populationUrbanDensity,the (populationUrbanDensity of the (placeofburial
+1,[architect of burial place,dbp:placeofburial,dbo:architect,the (architect of the (placeofburial
+1,[architect style of burial place,dbp:placeofburial,dbo:architecturalStyle,the (architecturalStyle of the (placeofburial
+1,[area code of burial place,dbp:placeofburial,dbo:areaCode,the (areaCode of the (placeofburial
+1,[builder of burial place,dbp:placeofburial,dbo:builder,the (builder of the (placeofburial
+1,[end date of building of burial place,dbp:placeofburial,dbo:buildingEndDate,the (buildingEndDate of the (placeofburial
+1,[start date of building of buial place,dbp:placeofburial,dbo:buildingStartDate,the (buildingStartDate of the (placeofburial
+1,[city of burial place,dbp:placeofburial,dbo:city,the (city of the (placeofburial
+1,[country of burial place,dbp:placeofburial,dbo:country,the (country of the (placeofburial
+1,[designer of burial place,dbp:placeofburial,dbo:designer,the (designer of the (placeofburial
+1,[distance to Belfast of burial place,dbp:placeofburial,dbo:distanceToBelfast,the (distanceToBelfast of the (placeofburial
+1,[distance to Cardiff of burial place,dbp:placeofburial,dbo:distanceToCardiff,the (distanceToCardiff of the (placeofburial
+1,[distance to CharingCross of burial place,dbp:placeofburial,dbo:distanceToCharingCross,the (distanceToCharingCross of the (placeofburial
+1,[distance to London of burial place,dbp:placeofburial,dbo:distanceToLondon,the (distanceToLondon of the (placeofburial
+1,[district of burial place,dbp:placeofburial,dbo:district,the (district of the (placeofburial
+1,[elevation of burial place,dbp:placeofburial,dbo:elevation,the (elevation of the (placeofburial
+2,[cooling system of engine containing fuel system],dbp:fuelsystem,dbp:coolingsystem,the (coolingsystem of an engine which have this (fuelsystem
+2,[oil system system of engine containing fuel system],dbp:fuelsystem,dbp:oilsystem,the (oilsystem of an engine  which have this (fuelsystem
+2,[axle load of engine utilizing fuel type],dbp:fueltype,dbp:axleload,the (axleload of an engine which have this (fueltype
+2,[valver train of engine utilizing fuel type],dbp:fueltype,dbo:valvetrain,the (valvetrain of an engine which have this (fueltype
+2,[national origin of engine utilizing fuel type],dbp:fueltype,dbp:nationalOrigin,the (nationalOrigin of an engine which have this (fueltype
+2,[official name of engine utilizing fuel type],dbp:fueltype,dbp:officialname,the (officialname of an engine which have this (fueltype
+2,[original country of engine utilizing fuel type],dbp:fueltype,dbp:countryOfOrigin,the (countryOfOrigin of an engine which have this (fueltype
+2,[rack system of engine utilizing fuel type],dbp:fueltype,dbp:racksystem,the (racksystem of an engine which have this (fueltype
+2,[architect of engine utilizing fuel type],dbp:fueltype,dbp:architect,the (architect of an engine which have this (fueltpye
+2,[max speed of engine utilizing fuel type],dbp:fueltype,dbp:maxspeed,the (maxspeed of an engine which have this (fueltype
+2,[safety valve type of engine utilizing fuel type],dbp:fueltype,dbp:safetyvalvetype,the (safetyvalvetype of an engine which have this (fueltype
+2,[lubecap of engine utilizing fuel type],dbp:fueltype,dbp:lubecap,the (lubecap of an engine which have this (fueltype
+2,[origin of engine utilizing fuel type],dbp:fueltype,dbo:origin,the (orgin of an engine which have this (fueltype
+2,[slogan of an authority serving area],dbp:serviceArea,dbo:slogan,the (serviceArea of an authority which have this (slogan
+2,[shape color of a organization serving area],dbp:serviceArea,dbp:shapeColor,the (serviceArea of an organization which have this (shapeColor
+2,[routes of a bus serving area],dbp:serviceArea,dbp:routes,the (serviceArea of a bus which have this (routes
+2,[bus operators of a bus serving area],dbp:serviceArea,dbp:busOperators,the (serviceArea of a bus which have this (busOperators
+2,[competitors of a company serving area],dbp:serviceArea,dbp:competitors,the (serviceArea of a company which have this (competitors
+2,[trolley bus of a company serving area],dbp:serviceArea,dbp:trolleybus,the (serviceArea of a company which have this (trolleybus
+2,[logo of a company serving area],dbp:serviceArea,dbp:logo,resource:the (serviceArea of a company which have this (logo
+2,[home page of a company serving area],dbp:serviceArea,dbp:homepage,the (serviceArea of a company which have this (homepage
+2,[license of a company serving area],dbp:serviceArea,dbp:license,the (serviceArea of a company which have this (license
+2,[postal code of a company serving area],dbp:serviceArea,dbp:postalCode,the (serviceArea of a company which have this (postalCode
+2,[products of a company serving area],dbp:serviceArea,dbp:products,the (serviceArea of a company which have these (products
+2,[ceo type of a company serving area],dbp:serviceArea,dbp:ceoType,the (serviceArea of a company which have this (ceoType
+2,[director of a company serving area],dbp:serviceArea,dbp:director,the (serviceArea of a company which have this (director
+2,[executive of a company serving area],dbp:serviceArea,dbp:executiveDirector,the (serviceArea of a company which have this (executiveDirector
+2,[address of a company serving area],dbp:serviceArea,dbp:address,the (serviceArea of a company which have this (address
+2,[location city of a company serving area],dbp:serviceArea,dbp:locationCity,the (serviceArea of a company which have this (locationCity
+2,[espn stars of team with oponent],dbp:opponent,dbp:espnStars,the (opponent of team which have (espnStars
+2,[label color of team with opponent],dbp:opponent,dbp:labelColor,the (opponent of team which have this (labelColor
+2,[name of team with opponent],dbp:opponent,foaf:name,the (name of team which have this (opponent
+2,[nationality of team with opponent],dbp:opponent,dbo:nationality,the (nationality of team which have this (opponent
+2,[head coach of team with opponent],dbp:opponent,dbp:headCoach,the (headCoach of team which have this (opponent
+2,[logo of team with opponent],dbp:opponent,dbp:logo,the (logo of team which have this (opponent
+2,[region name of team with opponent],dbp:opponent,dbp:regionname,the (regionname of team which have this (opponent
+2,[second place of team with opponent],dbp:opponent,dbp:secondPlace,the (secondPlace of team which have this (opponent
+2,[birth place of person with opponent],dbp:opponent,dbo:birthPlace,the (birthPlace of a person who have this (opponent
+2,[occupation of person with opponent],dbp:opponent,dbp:occupation,the (occupation of a person who have this (opponent
+2,[flag image of a place with incumbent],dbp:incumbent,dbp:flagImage,the (incumbent of a place which have this (flagImage
+2,[abbreviation of a place with incumbent],dbp:incumbent,dbp:abbreviation,the (incumbent of a place which have this (abbreviation
+2,[native name of a place with incumbent],dbp:incumbent,dbp:nativeName,the (incumbent of a place which have this (nativeName
+2,[subdivision type of a place with incumbent],dbp:incumbent,dbp:subdivisionType,the (incumbent of a place which have this (subdivisionType
+2,[head quarter of a place with incumbent],dbp:incumbent,dbo:headquarter,the (incumbent of a place which have this (headquarter
+2,[langs of a place with incumbent],dbp:incumbent,dbp:langs,the (incumbent of a place which have this (langs
+2,[child organisation of a place with incumbent],dbp:incumbent,dbo:childOrganisation,the (incumbent of a place which have this (childOrganisation
+2,[original name of a place with incumbent],dbp:incumbent,dbo:originalName,the (incumbent of a place which have this (originalName
+2,[chief name of a place with incumbent],dbp:incumbent,dbp:chief2Name,the (incumbent of a place which have this (chief2Name
+2,[symbol of a place with incumbent],dbp:incumbent,dbp:symbolType,the (incumbent of a place which have this (symbolType
+2,[medium of language of a place with authority],dbp:mediumOfLanguage,dbp:authority,the (authority of a place which have this (mediumOfLanguage
+2,[medium of language of a place with native name],dbp:mediumOfLanguage,dbp:nativeName,the (nativeName of a place which have this (mediumOfLanguage
+2,[medium of language of a place with campus],dbp:mediumOfLanguage,dbp:campus,the (campus of a a place which have this (mediumOfLanguage
+2,[medium of language of a place with original name],dbp:mediumOfLanguage,dbo:originalName,the (originalName of a a place which have this (mediumOfLanguage
+2,[alumni of school located in],dbp:alumni,dbo:location,the (location of a school which have this (alumni
+2,[alumni of school with authority],dbp:alumni,dbp:authority,the (authority of a school which have this (alumni
+2,[alumni of school with native name],dbp:alumni,dbp:nativeName,the (nativeName of a school which have this (alumni
+2,[alumni of school having campus],dbp:alumni,dbp:campus,the (campus of a school which have this (alumni
+2,[alumni of school with colours],dbp:alumni,dbp:schoolColours,the (schoolColours of a school which have this (alumni
+2,[address of school having alumni],dbp:alumni,dbo:address,the (address of a school which have this (alumni
+2,[origial name of school having alumni],dbp:alumni,dbo:originalName,the (originalName of a school which have this (alumni
+2,[slogan of school having alumni],dbp:alumni,dbo:slogan,the (slogan of a school which have this (alumni
+2,[faculty of school having alumni],dbp:alumni,dbp:faculty,the (faculty of a school which have this (alumni
+2,[url of school having alumni],dbp:alumni,dbp:url,the (url of a school which have this (alumni
+2,[nationality of school having alumni],dbp:alumni,dbo:nationality,the (nationality of a school which have this (alumni
+2,[latin name of school having alumni],dbp:alumni,dbo:latinName,the (latinName of a school which have this (alumni
+2,[superintendent of school having alumni],dbp:alumni,dbo:superintendent,the (superintendent of a school which have this (alumni
+2,[homepage of school having alumni],dbp:alumni,dbp:homepage,the (homepage of a school which have this (alumni
+2,[logo of school having alumni],dbp:alumni,dbp:logo,the (logo of a school which have this (alumni
+2,[motto of school having alumni],dbp:alumni,dbp:motto,the (motto of a school which have this (alumni
+2,[other name of school having alumni],dbp:alumni,dbp:otherName,the (otherName of a school which have this (alumni
+2,[campuses of school having alumni],dbp:alumni,dbp:campuses,the (campuses of a school which have this (alumni
+2,[local authority of school having alumni],dbp:alumni,dbp:localAuthority,the (localAuthority of a school which have this (alumni
+2,[principal label of school having alumni],dbp:alumni,dbp:principalLabel,the (principalLabel of a school which have this (alumni
+2,[education system of school having alumni],dbp:alumni,dbo:educationSystem,the (educationSystem of a school which have this (alumni
+2,[student union label of school having alumni],dbp:alumni,dbp:studentUnionLabel,the (studentUnionLabel of a school which have this (alumni
+2,[tuition of school having alumni],dbp:alumni,dbp:tuition,the (tuition of a school which have this (alumni
+2,[governor of school having alumni],dbp:alumni,dbp:governor,the (governor of a school which have this (alumni
+2,[key person of school having alumni],dbp:alumni,dbo:keyPerson,the (keyPerson of a college which have this (alumni
+2,[director of school having alumni],dbp:alumni,dbp:director,the (director of a college which have this (alumni
+2,[song of school having alumni],dbp:alumni,dbp:song,the (song of a school which have this (alumni
+2,[motto translation of school having alumni],dbp:alumni,dbp:mottoTranslation,the (mottoTranslation of a college which have this (alumni
+2,[executive headteacher of school having alumni],dbp:alumni,dbp:executiveHeadteacher,the (executiveHeadteacher of a school which have this (alumni
+2,[schedule type of school having alumni],dbp:alumni,dbp:scheduleType,the (scheduleType of a school which have this (alumni
+2,[background of school having alumni],dbp:alumni,dbo:background,the (background of a school which have this (alumni
+2,[hometown of school having alumni],dbp:alumni,dbo:hometown,the (hometown of a school which have this (alumni
+2,[founders of school having alumni],dbp:alumni,dbp:founders,the (founders of a school which have this (alumni
+2,[post code of school having alumni],dbp:alumni,dbp:postcode,the (postcode of a school which have this (alumni
+2,[head of school located in ],dbp:headOfSchool,dbo:location,the (location of a school which have this (headOfSchool
+2,[head of school with authority],dbp:headOfSchool,dbp:authority,the (authority of a school which have this (headOfSchool
+2,[head of school with native name],dbp:headOfSchool,dbp:nativeName,the (nativeName of a school which have this (headOfSchool
+2,[head of school with url],dbp:headOfSchool,dbp:url,the (url of a school which have this (headOfSchool
+2,[head of school with latin name],dbp:headOfSchool,dbo:latinName,the (latinName of a school which have this (headOfSchool
+2,[head of school with campus],dbp:headOfSchool,dbp:campus,the (campus of a school which have this (headOfSchool
+2,[head of school with slogan],dbp:headOfSchool,dbo:slogan,the (slogan of a school which have this (headOfSchool
+2,[head of school having faculty],dbp:headOfSchool,dbp:faculty,the (faculty of a school which have this (headOfSchool
+2,[head of school with governing body as ],dbp:headOfSchool,dbp:governingBody,the (governingBody of a school which have this (headOfSchool
+2,[head of school with headquarter],dbp:headOfSchool,dbp:headquarter,the (headquarter of a school which have this (headOfSchool
+2,[head of school with homepage],dbp:headOfSchool,dbp:homepage,the (homepage of a school which have this (headOfSchool
+2,[head of school with logo],dbp:headOfSchool,dbp:logo,the (logo of a school which have this (headOfSchool
+2,[head of school with motto],dbp:headOfSchool,dbp:motto,the (motto of a school which have this (headOfSchool
+2,[head of school having education system],dbp:headOfSchool,dbp:educationSystem,the (educationSystem of a school which have this (headOfSchool
+2,[head of school with tuition],dbp:headOfSchool,dbp:tuition,the (tuition of a school which have this (headOfSchool
+2,[head of school having local authority],dbp:headOfSchool,dbp:localAuthority,the (localAuthority of a school which have this (headOfSchool
+2,[head of school having song],dbp:headOfSchool,dbp:song,the (song of a school which have this (headOfSchool
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
