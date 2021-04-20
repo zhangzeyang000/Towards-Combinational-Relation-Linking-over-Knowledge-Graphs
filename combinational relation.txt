@@ -1,0 +1,417 @@
+1,Total area of the site,dbp:presenter,dbo:areaTotal,the (areaTotal of the (presenter place
+1,conference partner,dbp:presenter,dbo:associatedBand,the (associatedBand of the (presenter person/organization
+1,site architectural style,dbp:presenter,dbo:architecturalStyle,the (architecturalStyle of the (presenter person/organization
+1,sponsor background,dbp:presenter,dbo:background,the (background of the (presenter person
+1,sponsor member,dbp:presenter,dbo:bandMember,the (bandMember s of the (presenter organization
+1,broadcast coverage,dbp:presenter,dbo:broadcastArea,the (broadcastArea of the (presenter TV
+1,Script director,dbp:screenplay,dbo:director,the (director of a (screenplay
+1,network channel,dbp:presenter,dbo:broadcastNetwork,the (broadcastNetwork of the (presenter show
+1,program transmission frequency,dbp:presenter,dbo:broadcastTranslator,the (broadcastTranslator of the (presenter show
+1,program budget,dbp:presenter,dbo:budget,the (budget money of the (presenter show
+1,site of call,dbp:presenter,dbo:callSign,the (callSign of the (presenter place
+1,operational outfit,dbp:runtime,dbo:genre,the (genre of a device where a software (runtime
+1,software preview version,dbp:runtime,dbo:latestPreviewVersion,the (latestPreviewVersion of a (runtime software
+1,software release version,dbp:runtime,dbo:latestReleaseVersion,the (latestReleaseVersion of a (runtime software
+1,software OS,dbp:runtime,dbo:operatingSystem,the (operatingSystem of a (runtime software
+1,software homepage,dbp:runtime,dbo:homepage,the (homepage of a (runtime show
+1,game language,dbp:runtime,dbo:language,the (language of a (runtime show
+1,drama language,dbp:screenplay,dbo:language,the (language of this (screenplay
+1,drama round number,dbp:runtime,dbo:numSeasons,the (numSeasons of a (runtime show
+1,standard pronunciation,dbp:officialLanguages,dbo:soundRecording,the (soundRecording of a country's (officialLanguages
+1,glottogony,dbp:languages,dbp:ancestor,the (ancestor language of  the (language
+1,sublanguage,dbp:language,dbp:child,the (child  language of this (language
+1,software license,dbp:runtime,dbo:license,the (license of a (runtime software
+1,software developer,dbp:runtime,dbo:developer,the (developer of a (runtime software
+1,software description,dbp:runtime,dbp:caption,the (caption of a (runtime software
+1,software development organization,dbp:runtime,dbo:company,the (company of a (runtime software
+1,software discontinuity,dbp:runtime,dbp:discontinued,the (discontinued of a (runtime software
+1,software supervisor,dbp:runtime,dbo:executiveProducer,the (executiveProducer of a (runtime software
+1,program premiere time,dbp:runtime,dbo:firstAired,the (firstAired of a (runtime show
+1,show city,dbp:runtime,dbo:locationCity,the (locationCity of a (runtime show
+1,software icon,dbp:runtime,dbo:logo,the (logo of a (runtime software
+1,software icon description,dbp:runtime,dbo:logoCaption,the (logoCaption of a (runtime software
+1,software icon size,dbp:runtime,dbo:logoSize,the (logoSize of a (runtime software
+1,dynacomm,dbp:runtime,dbo:name,the (name of a (runtime software
+1,software platform,dbp:runtime,dbo:platform,the (platform of a (runtime software
+1,Software programming language,dbp:runtime,dbo:programmingLanguage,the (programmingLanguage of a (runtime software
+1,Officiallanguage family,dbp:officialLanguages,dbo:languageFamily,the (languageFamily of a country's (officialLanguages
+1,official language learning institutions,dbp:officialLanguages,dbo:languageRegulator,the (languageRegulator institution of a country's (officialLanguages
+1,official motto,dbp:officialLanguages,dbo:motto,the (motto of a country in (officialLanguages
+1,official religion,dbp:officialLanguages,dbo:religion,the (religion of a country's (officialLanguages
+1,official sub-language,dbp:officialLanguages,dbp:child,the (child languages of a country's (officialLanguages
+1,official language number,dbp:officialLanguages,dbp:code,the (code of a country's (officialLanguages
+3,palace,dbp:reign,dbo:headquarter,the organization whose (headquarter are in the (reign area of this person
+1,anthem composer,dbp:nationalAnthem,dbp:composer,the (composer who create the (nationalAnthem
+1,language origin,dbp:languages,dbo:country,the (country where a (language origin from
+1,language international code,dbp:languages,dbo:iso6391Code,the (iso6391Code of a (language
+1,language family,dbp:languages,dbo:languageFamily,the (languageFamily of a (language
+1,language users,dbp:languages,dbo:spokenIn,the person/area where the (language (spokenIn
+1,language segment,dbp:languages,dbo:subdivision,the (subdivision language of  the (language
+1,money producer,dbp:currency,dbp:authority,the (authority institution who publish the (currency
+1,monetary width,dbp:currency,dbp:barWidth,the (barWidth of  the (currency
+1,currency country,dbp:currency,dbo:usingCountry,the (usingCountry where of the (currency can be used
+1,monetary predecessor,dbp:currency,dbp:before,the currency (before  this (currency
+1,money in circulation,dbp:currency,dbp:circulation,the amount of (circulation of the (currency
+1,money supply,dbp:currency,dbp:circulatingSupply,the (circulatingSupply amount of the (currency
+1,coin form,dbp:currency,dbp:coinArticle,the (coinArticle form of the (currency
+1,currency issuing authority,dbp:currency,dbp:issuingAuthority,the (issuingAuthority organization that issues the (currency
+1,currency symbol,dbp:currency,dbp:characters,the (characters of the (currency
+1,time zone offset,dbp:timeZone,dbp:offset,the (offset amount of (timeZone
+1,time zone tag,dbp:timeZone,dbp:showflag,the (showflag of a (timeZone
+1,time zone suffix,dbp:timeZone,dbp:suffix,the (suffix of a (timeZone
+1,time zone range,dbp:timeZone,dbp:width,the (suffix of the all (timeZone
+1,timezone description,dbp:timeZone,dbp:depiction,the (depiction of a (timeZone
+1,hot time zone,dbp:timeZone,foaf:isPrimaryTopicOf,the (timeZone which (isPrimaryTopicOf some web forum
+1,drama abstract,dbp:plays,dbo:abstract,the (abstract of the (plays show
+1,genre of drama,dbp:plays,dbo:category,the (category of the (plays show
+1,Section title,dbp:plays,dbo:caption,the (caption of the (plays movie/show
+1,Drama series,dbp:plays,dbo:comics,the (comics form of the (plays movie/show
+1,opera company,dbp:plays,dbo:company,the (company that specializes in (plays
+1,playwright,dbp:plays,dbo:creator,the (creator of some (plays
+1,show time,dbp:plays,dbo:date,the show (date of the (plays
+1,drama props,dbp:plays,dbo:equipment,the (plays ' (equipment
+1,drama genre,dbp:plays,dbp:genre,the (genre of the (plays
+1,opera premiere,dbp:plays,dbp:premiere,the (premiere time of the (plays show
+1,movie soundtrack,dbp:plays,dbp:soundtracks,the (soundtracks of the (plays show/movie
+1,production team form,dbp:plays,dbp:team,the (team form of the organization which create the (plays show/movie
+1,stage location,dbp:plays,dbp:venue,the (venue where the (plays show/movie is shown
+1,Show website,dbp:plays,dbp:website,the (website where the (plays show/movie is shown
+1,Program duration,dbp:plays,dbp:width,the (width time of the (plays show/movie
+1,popular sports,dbp:plays,foaf:isPrimaryTopicOf,the (plays sport which (isPrimaryTopicOf in a web/forum
+1,national anthem,dbp:ethnicGroups,dbo:anthem,the (ethnicGroups 's (anthem
+1,national language,dbp:ethnicGroups,dbo:language,the (language that the (ethnicGroups use
+1,contract date,dbp:signature,dbp:date,the (data (that sb was (signature d
+1,sign reason,dbp:signature,dbp:reason,the (reason why (signature the organization
+1,valid year of service,dbp:serviceyears,dbo:activeYearsEndYear,the valid (activeYearsEndYear where you take (serviceyears in a organizaton
+1,service headquarters,dbp:serviceyears,dbo:headquarter,the (headquarter of the organization where you take (serviceyears
+1,military garrison,dbp:serviceyears,dbo:garrison,the (garrison power of organization where you take (serviceyears
+2,co-writer,dbp:author,dbp:author,this (author an that (author wrote a book together.
+1,stage name,dbp:actor,dbo:alias,the (alias of the (actor
+1,pen name,dbp:author,dbo:alias,the (alias of the (author
+1,co-artists,dbp:illustrator,dbo:associatedBand,the (associatedBand person of the (illustrator
+1,Artist studio,dbp:illustrator,dbo:location,the (location where the (illustrator worked
+1,region area,dbp:district,dbo:area,the (area of the (district in a country
+1,Center altitude,dbp:capital,dbo:elevation,the (elevation of the (capital of a (government
+1,area code,dbp:district,dbo:areaCode,the (areaCode of the (district in a country
+1,Administrative waters,dbp:district,dbo:areaWater,the (areaWater of the (district in a country
+1,local government association,dbp:district,dbo:associationOfLocalGovernment,the (associationOfLocalGovernment of this (district
+1,municipal corporation,dbp:district,dbo:authority,the (authority in local (district
+1,administration center,dbp:district,dbo:capital,the (capital city of this (district
+1,executive honorary county,dbp:district,dbo:ceremonialCounty,the (ceremonialCounty town of this (district
+1,administrative level,dbp:district,dbo:cityType,the (cityType rank of this (district
+1,Unitary Administrative Region,dbp:district,dbo:councilArea,the (councilArea  type of the (district
+1,administrative department,dbp:district,dbo:division,the (division district of (district in a country
+1,executive election day,dbp:district,dbo:electionDateLeader,the (electionDateLeader when people elect the leader of this (district
+1,major administrative event,dbp:district,dbo:event,the (event happened in this (district
+1,school fees,dbp:district,dbo:fees,the (fees of the (district in school
+1,administrative federal state,dbp:district,dbo:federalState,the (federalState of the (district in a country
+1,regime,dbp:district,dbo:governingBody,the (governingBody of the (district in a country
+1,administrative headquarters,dbp:district,dbo:headquarter,the (headquarter of the (district in a country
+1,executive upper house,dbp:district,dbo:house,the (house of the (district in a country
+1,administrative justice,dbp:district,dbo:jurisdiction,the (jurisdiction organization of the (district in a country
+1,military helicopter load,dbo:aircraftHelicopterUtility,dbp:capacity,the (capacity of the (aircraftHelicopterUtility in a army
+1,Media capacity,dbo:media,dbp:capacity,the (capacity of the (media of some game/software
+1,memory card capacity,dbo:memoryCard,dbp:capacity,the (capacity of the (memoryCard
+1,storage capacity,dbo:storage,dbp:capacity,the (storage (capacity of sth
+1,chassis capacity,dbp:chassis,dbp:capacity,the (capacity of (chassis in a car
+1,Venue capacity,dbp:venue,dbp:capacity,the (capacity of the (venue where have a show
+1,Arena capacity,dbp:arena,dbp:capacity,the (capacity of the (arenas where have a competition
+1,Concert Hall Capacity,dbp:concertHall,dbp:capacity,the (capacity of the (concertHall where have a concert
+3,homoeotic mutant,dbp:basedOn,dbp:basedOn,two variant which are (basedOn the same entity
+3,affected institutions,dbp:office,dbp:areasAffected,the organization's (office where are in (areasAffected caused by the disease
+3,Local organization,dbp:office,dbp:hqLocation,the (hqLocation of an organization where have the (office of another organization
+3,crown princess,dbp:spouse,dbo:successor,sb's (spouse is the (successor of a dynasty
+3,publisher staff,dbp:publisher,dbp:workplaces,the person whose (workplaces is the (publisher of this book
+3,common directer,dbp:director,dbo:director,the person who is the (director of a movie whose (director also is another person
+3,auteur,dbp:director,dbo:productionCompany,the (director whose work's (productionCompany is this company
+3,best director award,dbp:director,dbp:bestDirector,the (director who get the (bestDirector award
+3,countrymen,dbp:birthPlace,dbo:birthPlace,the person whose (birthPlace is your (birthPlace
+3,great-grandchildren,dbp:father,dbp:grandchildren,the child whose (father is your (grandchildren
+3,crown prince,dbp:father,dbp:stateHead,the child whose (father is the (stateHead of this organization
+3,step-children,dbp:father,dbp:stepmother,the child whose (father is the (stepmother of this person
+3,adopted child,dbp:father,dbp:adoptiveparents,the children whose (adoptiveparents is your (father
+3,great-great-grandfather,dbp:father,dbp:greatGrandfatherOf,the children who is the (greatGrandfatherOf your (father
+3,Legal heir,dbp:father,dbo:predecessor,the person whose (predecessor is your (father
+3,overlord,dbp:father,dbp:successor,the (successor of  a person whose (father is this person
+3,grandpa,dbp:father,dbo:child,the person whose (father is your (child
+3,crown prince,dbp:father,dbp:rulers,the child whose (father is the (rulers of the regime
+1,operating profit margin,dbp:operatingIncome,dbp:margin,(margin of (operatingIncome
+1,operating revenue subunit,dbp:operatingIncome,dbp:pluralSubunit,the (pluralSubunit of (operatingIncome
+1,net profit rate,dbp:netIncome,dbp:margin,(margin of (netIncome
+1,net profit subunit,dbp:netIncome,dbp:pluralSubunit,the (pluralSubunit of (netIncome
+1,Department location,dbp:divisions,dbo:location,the (location of the (divisions
+1,department operating income,dbp:divisions,dbp:operatingIncome,the (operatingIncome of the (divisions
+1,branch manager,dbp:divisions,dbp:ceo,the (ceo of the (divisions
+1,department manager,dbp:divisions,dbo:manager,the (manager of the (divisions
+1,subsidiary location,dbp:subsid,dbo:location,the (location of the (subsid
+1,subsidiary revenue,dbp:subsid,dbp:operatingIncome,the (operatingIncome of the (subsid
+1,city code,dbp:populationUrban,dbp:areaCode,the (areaCode of (populationUrban
+1,operating system computing platform,dbp:os,dbo:computingPlatform,the (computingPlatform of the (os
+1,Operating system memory card,dbp:os,dbp:memoryCard,the (memoryCard of the (os
+1,site language,dbp:url,dc:language,the (language of the (url
+1,website traffic,dbp:url,dbp:numUsers,(numUsers of the (url
+1,web version,dbp:url,dbp:version,the (version of the (url
+1,oval office,dbp:chancellor,dbo:office,the (office of the (chancellor
+1,president residence,dbp:chancellor,dbo:residence,the (residence of the (chancellor
+1,ex-premier,dbp:chancellor,dbo:predecessor,the (predecessor of the (chancellor
+2,made in,dbp:product,dbp:country,the location (country of the  company whose (product is this object
+1,grandniece,dbp:niece,dbp:daughter,the (daughter of your (niece
+2,sister-in-law,dbp:spouse,dbp:sister,the (sister of your (spouse
+2,mother-in-law,dbp:spouse,dbp:mother,the (mother of your (spouse
+3,daughter-in-law,dbp:spouse,dbp:son,the (spouse of your (son
+1,patriarch,dbp:family,dbp:leader,the (leader of your (family
+1,pastor,dbp:religion,dbp:leader,the (leader of the (religion your believe in
+1,ranee,dbp:leader,dbp:spouse,the (leader 's (spouse
+1,local leader,dbp:district,dbp:leader,the  local (district 's (leader
+3,schoolmate,dbp:almaMater,dbp:almaMater, your (almaMater also is the (almaMater of this person
+3,classmate,dbp:course,dbp:course, the (course you take also is the (course this person learned
+3,workmate,dbp:office,dbp:office, your (office also is the (office of this person
+3,shipmate,dbp:ship,dbp:ship, the (ship your take also is the (ship where this person take
+1,ridership,dbp:vehicle,dbp:capacity,the (capacity of the (vehicle you take
+3,roommate,dbp:restingplace,dbp:restingplace,the (restingplace you sleep also is the (restingplace where this person sleep
+1,viceroy,dbp:district,dbp:reign,the person who (reign a area which is the (district of the country
+3,co-wife,dbp:wife,dbp:wife,your (wife who is also the (wife of other person
+2,co-star,dbp:actor,dbp:actor,the person who is the (actor of a movie which have another (actor
+2,co-editor,dbp:editor,dbp:editor,the person who is the (editor of a book which have another (editor
+2,co-president,dbp:president,dbp:president,the person who is the (president of a school which have another (president
+2,co-chairman,dbp:leader,dbp:leader,the person who is the (leader of a country which have another (leader
+2,co-founder,dbp:founder,dbp:founder,the person who is the (founder of a organization which have another (founder
+2,co-sponsor,dbp:sponsor,dbp:sponsor,the person who is the (sponsor of a activity which have another (sponsor
+2,co-operator,dbp:operator,dbp:operator,the person who is the (operator of a machine which have another (operator
+2,co-member,dbp:member,dbp:member,the person who is the (member of a organization which have another (member
+2,co-manager,dbp:manager,dbp:manager,the person who is the (manager of a organization which have another (manager
+3,compatriot,dbp:country,dbp:country,the person who come from the (country which is your (country
+1,successor state,dbp:successor,dbp:state,the (state of the (successor
+3,native place,dbp:birthplace,dbp:county,the city whose (county  is your (birthplace
+1,disaster area,dbp:areasAffected,dbp:area,the (area of the (areasAffected
+1,leadership,dbp:leader,dbp:position,the (position of being the (leader
+1,pillar,dbp:group,dbo:keyPerson,the (keyPerson in the (group
+1,traditional,dbp:tradition,dbp:related,(related to the (tradition
+1,religious,dbp:religions,dbp:related,(related to the (religions
+1,athletic,dbp:sport,dbp:related,(related to the (sport
+1,related matters,dbp:event,dbp:related,(related to the (event
+2,sportsman,dbp:gender,dbp:sport,the peson play (sport whose (gender is male
+2,director,dbp:director,dbp:sport,the (director whose (gender is female
+1,gubernatorial,dbp:state,dbp:leader,the official (leader of a (state in the US
+1,paternal aunt,dbp:father,dbp:sister,the (sister of your (father
+1,paternal uncle,dbp:father,dbp:brother,a (brother of your (father
+1,maternal aunt,dbp:mother,dbp:sister,the (sister of your (mother
+1,maternal uncle,dbp:mother,dbp:brother,the (brother of your (mother
+1,family tree,dbp:members,dbp:relatives,members of your (relatives
+1,Opposition party,dbp:party ,dbp:leader,the (parties but not the (leader party
+2,Comrades-in-arms,dbp:force,dbp:force,a person is in the same (force with another person
+2,Alumni,dbp:graduates,dbp:graduates,the person of the (graduates of the school where your are the (graduates
+2,Foreign companies,dbp:country,dbp:place,the (country of a (company is different with its (place
+2,Maritime neighbors,dbp:country,dbp:ocean,two (countries are adjacent to the (ocean
+1,Reelected,dbp:match,dbp:champion,be the (champion of the same (match for many times
+1,ESports,dbp:sport,dbp:game,a form of (sport (competition using (video game
+1,Host country,dbp:hostcity,dbp:country,the (country of (hostcity
+2,Mother tongue,dbp:country,dbp:language,the (country (language of a (person
+1,Creation type,dbp:genre,dbp:creation,the (genre of (creation
+1,ruling party,dbp:party,dbp:leader,the (party of (leader
+1,faster,dbp:speed,dbp:speed,the (speed of A is larger than the (speed of B
+1,taller,dbp:height,dbp:height,the (height of A is bigger than (height of B
+1,Louder,dbp:sound,dbp:sound,the (sound of A is larger than B
+2,cellmate,dbp:villain,dbp:villain,the (villain of a place where you are also the (villain
+3,apprenticeship,dbp:position,dbp:license,the (position of apprentice to gain a (license to practice in a regulated profession
+3,naturalization,dbp:country,dbp:citizenship,process by which a non-citizen in a（country may acquire（citizenship or nationality of that country
+1,companionship,dbp:company,dbp:state,the (state of being with (company
+3,consulship,dbp:official,dbp:government,An (official appointed by a (government to reside in a foreign country and represent his or her government's commercial interests and assist its citizens there
+1,dictatorship,dbp:government,dbp:leader,a form of (government characterized by a single (leader or group of leaders and little or no toleration for political pluralism or independent media
+3,distributorship,dbp:company,dbp:supplies,a (company that (supplies goods to stores or other businesses or the right to supply goods to stores and businesses
+1,fellowship,dbp:college,dbp:status,the (status of a fellow of a (college or society
+3,friendship,dbp:state,dbp:formation,the (state of being friends or stronger (formation of interpersonal bond than an association
+2,kingship,dbp:rank,dbp:position,the dignity or (rank or (position of a king
+2,ladyship,dbp:title,dbp:address,a (title used to (address or refer to any peeress except a duchess
+1,lightship,dbp:ship,dbp:light,A (ship with a powerful (light or warning signals that is anchored in dangerous waters to alert other vessels
+2,lordship,dbp:authority,dbp:title,the (authority of a lord;a (title used to address any British peer except a duke and extended to a bishop or a judge
+1,ownership society,dbp:ownership,dbp:founder,(ownership (founder
+1,partnership,dbp:company,dbp:group,a general (company where all (group share both profits and liabilities
+1,professorship,dbp:university,dbp:position,the (position of professor in a (university
+1,relationship,dbp:group,dbp:state,a (state of connectedness between (group
+1,head of household,dbp:head,dbp:family, the (head of a household or (family or tribe
+1,dominant,dbp:leader,dbp:title,a (title of the highest (leader in various categories
+1,reverend,dbp:religion,dbp:membership,a (membership of a (religion
+1,chief engineer,dbp:occupation,dbp:department,an (occupation where a licensed mariner in charge of the engineering (department on a merchant vessel
+1,head coach,dbp:team,dbp:leader,a (leader of the (team that a professional at training and developing athletes
+1,associate research fellow,dbp:college,dbp:position,a (position of (college or an occupation
+1,associate senior doctor,dbp:institution,dbp:position,a (position of hosptal in (institution or an occupation
+1,deputy secretary-general,dbp:country,dbp:position,a (position of (country or an occupation
+3,chief doctor,dbp:leader,dbp:institution,a (leader in hospital (institution
+3,professionals,dbp:person,dbp:profession,a (person following a (profession
+3,Time founded,dbp:time,dbp:found,the (time of some organization (found
+3,Highest-paid NBA players by season,dbp:highest,dbp:salary,the (highest (salary paid in NBA
+3,Equine coat color,dbp:hairColor,dbp:body,the (hairColor and the (body color of horse
+3,soulmate,dbp:characters,dbp:part,someone have the same (characters or (part of you
+3,authorization,dbp:certification,dbp:authority,the (certification or the (authority   giving an official instruction or command
+3,corporate citizenship,dbp:group,dbp:citizenship,the (group with corporate (citizenship
+2,dual citizenship,dbp:citizenship,dbp:citizenship,a person with double country (citizenship
+1,country of citizenship ,dbp:citizenship,dbp:country,a person belong to the (citizenship of a (country
+1,Human height,dbp:body,dbp:height,the (height of (body
+1,Automatic transmission,dbp:vehicles,dbp:transmission,a multi-speed (transmission used in motor (vehicles
+3,Magnitude,dbp:size,dbp:subject,magnitude or (size of a mathematical object in math (subject
+3,Electrification,dbp:electrified,dbp:construction,(electrified (construction
+3,Self-employed,dbp:group,dbp:salary,a (group not work for a specific employer who pays them a consistent (salary or wage
+3,Digital media,dbp:digital,dbp:format,any (digital media that are encoded in machine-readable (format
+3,Business-to-business,dbp:digital,dbp:commercial,a situation where one (digital business makes a (commercial transaction with another
+3,Online chat,dbp:digital,dbp:transmission,any kind of (digital communication over the Internet that offers a real-time (transmission of text messages from sender to receiver
+1,brother-in-law,dbp:spouse,dbp:brother,the (brother of one's (spouse
+1,frontman,dbp:group,dbp:leader,(leader of a musical (group
+2,maternal,dbp:related,dbp:parent,(related to person 's (parent
+2,matriarch,dbp:gender,dbp:leader,	the (gender (leader
+2,domestic,dbp:country,dbp:related,	(related to a person's own (country
+1,Vernacular,dbp:demonym,dbp:language,the (language spoken by the local (demonym
+1,maiden home,dbp:mother,dbo:birthPlace,the(birthPlace of the (mother
+1,grandpa,dbp:mother,dbo:father,the(father of the (mother
+1,party chairman,dbp:leaderParty,dbo:politicalLeader,the(politicalLeader of the (leaderParty
+1,party secretary,dbp:leaderParty,dbo:secretaryGeneral,the(secretaryGeneral of the (leaderParty
+1,synonymous domain,dbp:synonyms,dbp:field,the(field of the (synonyms
+1,IP,dbp:url,dbp:domain,the (domain of the (url
+1,located in,dbp:locations,dbo:city,the(city of the (locations
+1,factory address,dbp:production,dbo:address,the(address of the (production
+1,factory area,dbp:production,dbo:area,the(area of the (production
+1,garrison guarded,dbp:rank,dbo:garrison,(garrison of the (rank
+1,military event,dbp:rank,dbo:event,(events for the (rank
+1,footer template,dbp:pages,dbp:footer,the (footer of the (pages
+1,Island Center,dbp:islands,dbo:capital,the (capital of the (islands
+1,native,dbp:demonym,dbp:related,(related to (dymonym
+1,local time,dbp:demonym,dbp:timeZoneDst,the (timeZoneDst used by (demonym
+1,local area,dbp:demonym,dbp:area,the (area of the place where  (demonym live
+1,location code,dbp:demonym,dbp:currencyCode,the (currencyCode of the place where (demonym live
+3,Online competition,dbp:digital,dbp:competition,a kind of (digital (competition
+3,Virtual currency,dbp:digital,dbp:currency,(digital (currency
+3,Fund promoter,dbp:institution,dbp:establishment,Refers to the (institution that initiated the (establishment of the fund
+3,Commodity futures,dbp:contract,dbp:commodity,are futures (contracts in which the indicators are physical (commodity
+3,Financial futures,dbp:contract,dbp:instruments,refer to futures (contracts with financial (instruments as the subject matter
+3,Stock listing,dbp:stock,dbp:listed,Refers to the legal act of publicly (listed and traded on the (stock exchange after the issued stock is approved by the (stock exchange
+2,active trade balance,dbp:exports,dbp:imports,a country (exports a greater value than it (imports
+1,allied powers,dbp:alliance,dbp:country,(country that have joined in an   (alliance
+3,actress,dbp:gender,dbp:actor,a (gender (actor
+3,bachelor mother,dbp:child,dbp:marriage,a gender person has (child without (marriage
+3,open university,dbp:university,dbp:qualification,a (university in country that accepts students without formal (qualification
+3,horoscope,dbp:description,dbp:planets,a (description based on the position of the (planets when you born
+3,false friend,dbp:meaning,dbp:similar,a word that is often confused with a word in another language with different (meaning but lood (similar
+3,son of a bitch,dbp:gender,dbp:person,a (gender unpleasant (person
+3,son-in-law,dbp:consort,dbp:child,the gender (consort of your (child
+1,one-parent family,dbp:family,dbp:parent,a (family that only contain one of your (parent
+3,only child,dbp:child,dbp:sisters,the (child who has no (sisters or brothers
+3,five-star,dbp:building,dbp:service,a (building outside with best quality and (service where you may live in
+3,protagonist,dbp:main,dbp:story,the (main person in a (story or play
+3,slave,dbp:person,dbp:owned,the (person (owned by (person in legal
+3,terrorist,dbp:person,dbp:action,the (person who take violent (action for political purpose
+3,sentry,dbp:person,dbp:place,the (person in army who guard a (place usually stand at entrance
+3,detainee,dbp:person,dbp:closed,the (person who are (closed in a building for political reason
+3,apologist,dbp:person,dbp:supports,the (person who (supports a special belief or political system
+2,mentor,dbp:help,dbp:work,the person who give you (help and advice at (work or school
+3,faculty,dbp:departments,dbp:college,the group of (departments in (college
+3,dean,dbp:university,dbp:responsible,the person in (university who is (responsible for the organization of department
+3,deputy,dbp:lower,dbp:leader,the person only (lower than (leader
+3,white-collar,dbp:work,dbp:offices,the person (work in (offices and doing mental (work
+3,clan,dbp:group,dbp:families,a (group of (families especially in place
+1,forefather/ancestor,dbp:relatives,dbp:live,the person's (relatives who (live at a long time ago
+3,mother school,dbp:school,dbp:study,a (school where you (study
+3,capital,dbp:city,dbp:center ,a (city that is the (center of government of a country
+3,anonymity,dbp:name,dbp:unkonwn,a situation where a person (name is (unkown
+3,runner-up,dbp:second,dbp:competition,the person who comes (second in a (competition
+3,champion,dbp:first,dbp:competition,the person who comes (first in a (competition
+3,public school,dbp:school,dbp:government,a (school that receive financial support from (government
+3,conservatory,dbp:school,dbp:music,a (school where teaching  (music
+3,seminary,dbp:school,dbp:priest,a (school for training person to be (priest
+3,madrasa,dbp:school,dbp:religion,a (school where person learn about (religion of Islam
+3,walk-up,dbp:building,dbp:lift,the (building with severals floors but no (lift
+3,deadname,dbp:dead,dbp:name,an action to call a person by his or her (dead (name
+3,overparenting,dbp:education,dbp:control,a type of (education where their parent (control too much
+3,municipality,dbp:district,dbp:government,the (district with its own local (government
+3,infant school,dbp:school,dbp:age,a (school in UK for child whose (age are 4-7
+3,proprietress,dbp:woman,dbp:owner,a (woman (owner
+3,black sheep,dbp:failure,dbp:family,a person who is regarded as a disgrace or (failure by his (family or peer group
+1,brother-in-law, dbp:brother,dbp:spouse,the (brother of one's (spouse
+3,guest book,dbp:book,dbp:address,a (book in which people write their names and (address when they have been staying at a hotel
+3,vocational school,dbp:school,dbp:skill,a (school where students learn (skill that involve working with their hand
+3,single-sex,dbp:school,dbp:sex,a (school that admitting members of one (sex only
+3,special school,dbp:school,dbp:difficulty,a (school for children who have physical (difficulty with learning
+3,three-legged race,dbp:race,dbp:tied,a (race in which contestants run in pairs with their near legs (tied together
+3,fee-paying,dbp:parents,dbp:charges,  a school that (charges fees to (parents of pupils
+3,military academy,dbp:school,dbp:military,a (school that trains people for (military careers as officers
+3,private school,dbp:school,dbp:individuals, a secondary (school run and supported by (individuals rather than by a government of public agency
+3,blood relation/relative,dbp:person,dbp:blood,a (person who is connected with another by (blood
+3,nanny,dbp:person,dbp:attend,a (person employed to (attend for children in a household
+3,private company,dbp:company,dbp:stock,a (company whose share are not trade no a (stock market
+3,magnet school,dbp:school,dbp:designed,a public (school with a specialized program (designed to draw students from throughout a community
+3,central business district,dbp:city,dbp:offices,the part of a (city where most (offices and business are
+3,fence-sitter,dbp:person,dbp:support,the (person who (support both side
+3,fuse,dbp:electrical,dbp:safety,a small (safety (electrical part that prevent fire or other danger
+3,peacemaker,dbp:person,dbp:stop,the (person who try to (stop people from arguing
+3,coeducational,dbp:school,dbp:gender,a (school where (gender take the class together
+3,LLC,dbp:company,dbp:commercial,a type of (company in which the owners have specific tax advantages and no personal (commercial risk if company should fail
+3,reformatory,dbp:school,dbp:law,a type of (school where young person who have broken the (law are sent in
+3,three-point turn,dbp:act,dbp:direction,an (act of turning car round to face the other (direction
+2,bloodbath,dbp:event,dbp:person,an extremely violent (event where many (person are killed
+2, GDP, dbp:country,dbp:year ,a number of value of totalProduction in a (country in a (year
+3,mammal, dbp:animal,dbp:feed, the (animal of which the female (feed her child on milk from her own body
+1,chameleon, dbp:person,dbp:opinion,the (person who always change his or her (opinion
+3,myriapod, dbp:group,dbp:leg, a (group of small creature that have long     body and many section with (leg
+1,mugshot, dbp:photo ,dbp:police, a (photo taken by (police for the villain
+3,juvenile delinquent, dbp: villain ,dbp:age ,a (villain in young (age
+3, traumatically, dbp: method ,dbp:shock ,a (method that cause emotional (shock and pain
+3,hairy, dbp: hair,dbp:body ,have a lot of (hair especially on pats of (body but not head
+1,accomplice, dbp: help,dbp: villain ,a person who (help a (villain
+1,room parent, dbp: parent ,dbp:help ,in US a (parent who (help the teacher of a class in their child 's school
+2,man Friday, dbp:gender ,dbp:help, a (gender person who (help person with their work
+3, right-hand man, dbp:person ,dbp:support, the (person who help and (support you the most at work
+3, lady-in-waiting, dbp:gender ,dbp:queen,a (gender person whose job is to help (queen
+3, black belt, dbp:symbol ,dbp:sport,the (symbol of a very high standard in a (sport of judo
+3,charity, dbp: organization ,dbp: endowment,an (organization whose purpose is to give (endowment
+3,philanthropist, dbp: person ,dbp: endowment,the (person who help (person and     give them (endowment
+3, thrombus, dbp: blood ,dbp: block ,a mass of (blood that form in (blood vessel and may (block the flow of (blood
+3,haemorrhage, dbp: blood ,dbp: damage ,a large flow of (blood from a (damage (blood vessel
+3, freshwater, dbp: water ,dbp:no ,the (water have (no salt
+3, lagoon, dbp: water ,dbp:salt ,an area of (water that have (salt
+3,golden wedding anniversary, dbp: year ,dbp:marriage ,the day that exactly 50 (year after a (marriage
+2,complementary angle, dbp: angle,dbp:added , one of two (angle that (added be a right (angle
+3,hypotension, dbp: blood ,dbp: disease,a (disease where your (blood pressure in artery is too low
+2,plateau, dbp: plain ,dbp: elevation,a (plain in high (elevation
+2,contour line,dbp:line,dbp:height,a (line on map connect point that have same (height
+3,limestone,dbp:rock,dbp:material,a color (rock that is use d as a building (material
+3,blueprint,dbp:photo,dbp:building,a (photo of a early scheme of a (building
+3,concentric,dbp:same,dbp:centre,some circle that have (same (centre
+3,demotion,dbp:event,dbp:position,a (event where the person from a high (position to a low (position in job
+1,paper money,dbp:currency,dbp:banknoteArticle,the (banknoteArticle form of  the (currency
+1,currency calcium content,dbp:currency,dbp:calciumMg,the (calciumMg contained in the (currency
+1,currency liquidity,dbp:currency,dbp:collapse,the (currency is (collapse or not
+1,currency year,dbp:currency,dbp:years,the (years when this (currency released
+1,monetary value,dbp:currency,dbp:value,the real (value of this (currency
+1,currency license,dbp:currency,dbp:license,the (license of this (currency
+1,Mint Mark,dbp:currency,dbp:label,the (label engraved in the (currency
+1,coin emblem,dbp:currency,dbp:logo,the (logo painted in the (currency
+3,sample reels,dbp:director,dbp:creator,the (show whose (director is the (creator of another film
+2,pride land,dbp:homecountry,dbp:achievement,the (homecountry of the person who have this (achievement
+1,domestic name,dbp:divisions,dbp:nativeName,the (nativeName of the (divisions
+1,headquarters branch,dbp:subsid,dbo:headquarter,the (headquarter of the (subsid
+1,os test version,dbp:os,dbp:latestTestVersion,the (latestTestVersion of the (os
+1,os release version,dbp:os,dbp:latestReleaseVersion,the (latestReleaseVersion of the (os
+1,os preview version,dbp:os,dbp:latestPreviewVersion,the (latestPreviewVersion of the (os
+1,parent-in-law,dbp:spouse,dbp:parent,your (spouse 's parent
+1,great-grandfather,dbp:father,dbp:grandfather,the (grandfather of your (father
+1,great-grandmother,dbp:father,dbp:grandmother,the (grandmother of your (father
+1,granddaughter-in-law,dbp:grandchildren,dbp:spouse,your (grandchildren 's (spouse
+1,graveyard area,dbp:restingplace,dbo:area,the (area of the (restingplace where sb was buried
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
